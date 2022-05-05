@@ -13,7 +13,7 @@ It's glad to know that my research is of interest to readership
 <b>A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8</b>
 
 <br>
-![alt text]({{ site.baseurl }}/images/2022-02-25.png "My first achievement")
+![alt text]({{ site.baseurl }}/images/2022/2022-02-25.png "My first achievement")
 
 
 #### Abstract

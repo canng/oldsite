@@ -12,7 +12,7 @@ Happy to share my second Ph.D. paper on Sustainable Cities and Society.
 <b>"How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia"</b>
 
 <br>
-![alt text]({{ site.baseurl }}/images/2022-04-21-2nd-paper.PNG "second Phd paper"){:.second Phd paper}
+![alt text]({{ site.baseurl }}/images/2022/2022-04-21-2nd-paper.PNG "second Phd paper"){:.second Phd paper}
 
 
 #### Highlights
