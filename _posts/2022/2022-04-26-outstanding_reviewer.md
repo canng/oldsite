@@ -8,9 +8,7 @@ tags:
 ---
 
 
-<div style="width: 60%; height: 60%">
-  ![alt text]({{ site.baseurl }}/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg)
-</div>
+<img src="https://github.com/canng/canng.github.io/tree/main/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg" width=50% height=50%>
 
 
 
