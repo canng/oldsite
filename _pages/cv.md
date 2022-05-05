@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-### Research Interests
-<dl>
-    <dd> Environmental Geography </dd> 
-    <dd> Urban Environmental Management & Planning </dd> 
-    <dd> RS and GIS-related Applications </dd> 
-    <dd> Ecosystem Services </dd> 
-    <dd> Coastal farming and Coastal ecosystems </dd> 
-</dl>
+Research Interests
+=====
+* Environmental Geography 
+* Urban Environmental Management & Planning 
+* RS and GIS-related Applications
+* Ecosystem Services 
+* Coastal farming and Coastal ecosystems 
+
 
 <hr>
 
