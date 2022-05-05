@@ -9,7 +9,7 @@ author_profile: true
 <i> 
 Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 </i>
-<ol>
+<ol reversed>
 
 <hr>
 
