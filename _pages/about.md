@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-===
+<hr>
 
 Can Nguyen is currently a doctoral candidate in Environmental Technology at The Joint Graduate School of Energy and Environment [(JGSEE)](https://www.jgsee.kmutt.ac.th/v3/), King Mongkut’s University of Technology Thonburi [(KMUTT)](https://www.kmutt.ac.th/en/), Thailand. His present research focuses are Urbanization and Climate Change Impacts on Urban environment and Nature-based solutions.
 
