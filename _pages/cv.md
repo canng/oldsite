@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+My full CV can be found out [here](/files/pdfs/Can.T.Nguyen_CV_202205.pdf).
+
+
 ## Research Interests
 * Environmental Geography 
 * Urban Environmental Management & Planning 
