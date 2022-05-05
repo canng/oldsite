@@ -10,26 +10,23 @@ redirect_from:
 {% include base_path %}
 
 ### Research Interests
-=====
 * Environmental Geography 
 * Urban Environmental Management & Planning 
 * RS and GIS-related Applications
 * Ecosystem Services 
 * Coastal farming and Coastal ecosystems 
-<hr>
+
 
 ### Education  
 #### 2019 – present: Ph.D. Environmental Technology
-
 * Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
 * Dissertation: <i>"Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"</i>
 
 
 #### 2017 – 2019: M.Sc. Land Management (GPA: 3.71/4.00) 
-<ul>
-    <li> Can Tho University (CTU), Vietnam </li>
-    <li> Dissertation: <i>"Analysis of Urban Heat Island and Energy Consumption in Bangkok Metropolitan Area using Remote sensing"</i> </li>
-</ul>
+* Can Tho University (CTU), Vietnam
+* Dissertation: <i>"Analysis of Urban Heat Island and Energy Consumption in Bangkok Metropolitan Area using Remote sensing"</i> 
+
 
 #### 2012 – 2016: B.Eng. Land Management (GPA: 3.53/4.00) 
 <ul>
