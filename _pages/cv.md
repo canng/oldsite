@@ -49,8 +49,8 @@ redirect_from:
 <hr>
 
 ## Honors and Awards 
-* Petcha Pra Jom Klao Doctoral Research Scholarship, KMUTT          (2019–2022: ~ 27,000$)
-* Ph.D. Research Fund, JGSEE          (2019–2022: ~ 8,500$)  
+* Petcha Pra Jom Klao Doctoral Research Scholarship, KMUTT          (2019–2022: ~27,000$)
+* Ph.D. Research Fund, JGSEE          (2019–2022: ~8,500$)  
 * Intern Fellowship at KGEO, KMUTT, Thailand                 (Dec 2017–May 2018: ~1,800$)  
 * University’s Incentive Fellowship (Top 5%)                 (2014, 2015)  
  
