@@ -11,9 +11,5 @@ tags:
 ![alt text]({{ site.baseurl }}/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg)
 
 
-<div style="width:60px ; height:60px">
-![Employee data](/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg?raw=true)
-<div>
 
-
-<img src="/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg" width="250" height="250"/>
+<img src="/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg" width="496" height="701"/>
