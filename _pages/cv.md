@@ -78,8 +78,8 @@ redirect_from:
  <hr>
 
 ## Presentations/ Invited Talks 
-* "Urbanization and Climate change impacts on Urban Heat Island in Bangkok and Ho Chi Minh city” at The 2nd International Ph.D. Students Conference on Environment. Mahidol University, Thailand (05/08/2021). </li>
-* “InVEST – Urban Cooling Model and Applications” at KMUTT Steering Committee for Carbon Neutrality by 2040. KMUTT, Thailand (23/06/2021). </li>
-* “Mapping Cultural Ecosystem Services using Public Participatory Mapping” at training on Approaches to Evaluating Ecosystem Services. Can Tho University, Vietnam (18/06/2021). </li>
+* "Urbanization and Climate change impacts on Urban Heat Island in Bangkok and Ho Chi Minh city” at The 2nd International Ph.D. Students Conference on Environment. Mahidol University, Thailand (05/08/2021). 
+* “InVEST – Urban Cooling Model and Applications” at KMUTT Steering Committee for Carbon Neutrality by 2040. KMUTT, Thailand (23/06/2021). 
+* “Mapping Cultural Ecosystem Services using Public Participatory Mapping” at training on Approaches to Evaluating Ecosystem Services. Can Tho University, Vietnam (18/06/2021). 
  
 <hr>

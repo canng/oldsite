@@ -5,7 +5,7 @@ permalink: /publications_list/
 author_profile: true
 ---
 
-### Selected international publications
+## Selected international publications
 <i> 
 Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 </i>
