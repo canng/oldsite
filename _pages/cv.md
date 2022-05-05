@@ -11,6 +11,7 @@ redirect_from:
 
 My full CV can be found out [here](/files/pdf/Can.T.Nguyen_CV_202205.pdf).
 
+<hr>
 
 ## Research Interests
 * Environmental Geography 
