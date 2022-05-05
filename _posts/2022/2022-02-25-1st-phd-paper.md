@@ -1,10 +1,10 @@
 ---
-layout: post_noshare
 title:  "My first achievement"
 date:   2022-02-25 00:00:00
 author: Can Nguyen
 categories: Publication
-tags: publication
+tags: 
+    - publication
 ---
 
 After one year of publication, my first Ph.D. paper has reached the 2nd most downloaded paper 
