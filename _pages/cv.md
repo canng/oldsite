@@ -57,14 +57,14 @@ redirect_from:
 <hr>
 
 ## Trainings 
-* Dec 2019: “Remote Sensing Land use/cover Change and Climate Impacts in Coastal Zone”. South/Southeast Asia Research Initiative (SARI), Land cover/land use Change Program, NASA (Phuket, Thailand)  
+* Dec 2019: “Remote Sensing Land use/cover Change and Climate Impacts in Coastal Zone”. South/Southeast Asia Research Initiative (SARI), Land cover/land use Change Program, NASA and Prince of Songkla University (Phuket, Thailand).
 * Dec 2018: "R-Statistics". Nagasaki University and Can Tho University (Can Tho, Vietnam).  
 * Oct 2018: "Google Earth Engine Training". HCMC Institute of Resources Geography and SERVIR-Mekong (HCMC, Vietnam).  
 * July 2018: "Water and Its many issues: Methods and Cross-cutting analysis". Asian water platform 2018 - WANASEA (Can Tho, Vietnam).  
-* March 2018: "GeoServices-4-Sustainability" - Smart City and GIS for Health modules. University of Salzburg and Nanjing Normal University (Nanjing, China).  
-* December 2016: “Methods and Practices for Analyzing Local Ecological Knowledge”, Social Science Summer School (SSSS) of SEDES IJL and HCM University of Science (HCMC, Vietnam)  
-* November 2016: “Stable Isotope Analysis for the Study of Coastal Food Webs: Theory and Practice”, SEDES IJL (HCMC, Vietnam)  
-* November 2016: “Ecosystem-based Adaptation Approach for Sustainable Management and Governance of Coastal Ecosystems (ENGAGE)”. AITVN (Can Tho, Vietnam)  
+* Mar 2018: "GeoServices-4-Sustainability" - Smart City and GIS for Health modules. University of Salzburg and Nanjing Normal University (Nanjing, China).  
+* Dec 2016: “Methods and Practices for Analyzing Local Ecological Knowledge”, Social Science Summer School (SSSS) of SEDES IJL and HCM University of Science (HCMC, Vietnam)  
+* Nov 2016: “Stable Isotope Analysis for the Study of Coastal Food Webs: Theory and Practice”, SEDES IJL (HCMC, Vietnam)  
+* Nov 2016: “Ecosystem-based Adaptation Approach for Sustainable Management and Governance of Coastal Ecosystems (ENGAGE)”. AITVN (Can Tho, Vietnam)  
  
 <hr>
 
