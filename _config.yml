@@ -99,13 +99,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "https://github.com/canng/"
+  github           :  "canng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/can-trong-nguyen-b76b0a1a1/"
+  linkedin         : "can-trong-nguyen-b76b0a1a1"
   orcid            : "https://orcid.org/0000-0003-0471-4062"
   pinterest        :
   soundcloud       :
@@ -118,6 +118,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  publons: "https://publons.com/researcher/3587434/can-trong-nguyen/"
 
 
 # Reading Files
