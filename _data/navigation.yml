@@ -21,9 +21,6 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-
-  - title: "Peer review"
-    url: /review/
-    
+ 
 #  - title: "Guide"
 #    url: /markdown/
