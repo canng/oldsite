@@ -9,23 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
+### Research Interests
 =====
 * Environmental Geography 
 * Urban Environmental Management & Planning 
 * RS and GIS-related Applications
 * Ecosystem Services 
 * Coastal farming and Coastal ecosystems 
-
-
 <hr>
 
 ### Education  
 #### 2019 – present: Ph.D. Environmental Technology
-<ul>
-    <li> Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand </li>
-    <li> Dissertation: <i>"Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"</i></li>
-</ul>
+
+* Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
+* Dissertation: <i>"Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"</i>
+
 
 #### 2017 – 2019: M.Sc. Land Management (GPA: 3.71/4.00) 
 <ul>
