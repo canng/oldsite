@@ -43,7 +43,7 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 <h2> 2019 </h2>
 <li><b>Can, N.T.*</b>, Diep, N.T.H., Iabchoon, S., Varnakovida, P., Minh, V.Q., 2019. Analysis of Factors Affecting Urban Heat Island Phenomenon in Bangkok Metropolitan Area, Thailand. VNU J. Sci. Earth Environ. Sci. 35, 53–62. <a href="https://doi.org/10.25073/2588-1094/vnuees.4355"> 10.25073/2588-1094/vnuees.4355</a></li> 
 
-<li> Diep, N. T. H., Korsem, T., <b>Can, N. T.</b>, Phonphan, W., & Vo Quang Minh. (2019). Determination of aquaculture distribution by using remote sensing technology in Thanh Phu district, Ben Tre province, Vietnam. Vietnam Journal of Science, Technology and Engineering, 61(2), 35–41. <a href="https://doi.org/10.31276/VJSTE.61(2).35-41"> 10.31276/VJSTE.61(2).35-41</a></li> 
+<li> Diep, N. T. H., Korsem, T., <b>Can, N. T.</b>, Phonphan, W., & Vo Quang Minh., 2019. Determination of aquaculture distribution by using remote sensing technology in Thanh Phu district, Ben Tre province, Vietnam. Vietnam Journal of Science, Technology and Engineering, 61(2), 35–41. <a href="https://doi.org/10.31276/VJSTE.61(2).35-41"> 10.31276/VJSTE.61(2).35-41</a></li> 
 
 <hr>
 
