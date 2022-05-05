@@ -14,9 +14,9 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 <hr>
 
 <h2> 2022 </h2>
-<li> <b>Nguyen, C. T.*</b>, Chidthaisong*, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H. (2022). How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 103882.<a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a></li> 
+<li> <b>Nguyen, C. T.*</b>, Chidthaisong*, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 103882.<a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a></li> 
 
-<li> Diem, P. K., Diem, N. K., <b>Can, N. T.</b>, Minh, V. Q., Huong, H. T. T., Diep, N. T. H., & Tao, P. C. (2022). Assessing the applicability of Fusion Landsat-MODIS data for mapping agricultural land use - A case study in An Giang Province. IOP Conference Series: Earth and Environmental Science, 964(1), 012005. <a href="https://doi.org/10.1088/1755-1315/964/1/012005"> 10.1088/1755-1315/964/1/012005</a></li> 
+<li> Diem, P. K., Diem, N. K., <b>Can, N. T.</b>, Minh, V. Q., Huong, H. T. T., Diep, N. T. H., & Tao, P. C., 2022. Assessing the applicability of Fusion Landsat-MODIS data for mapping agricultural land use - A case study in An Giang Province. IOP Conference Series: Earth and Environmental Science, 964(1), 012005. <a href="https://doi.org/10.1088/1755-1315/964/1/012005"> 10.1088/1755-1315/964/1/012005</a></li> 
 
 <hr>
 
