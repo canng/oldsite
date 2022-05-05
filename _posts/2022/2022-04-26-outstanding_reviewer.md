@@ -7,6 +7,6 @@ tags:
   - review
 ---
 
-![alt text]({{ site.baseurl }}/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg "Outstanding-Reviewer"){:.Outstanding-Reviewer}
+![alt text]({{ site.baseurl }}/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg  | width=100){:.Outstanding-Reviewer}
 
 
