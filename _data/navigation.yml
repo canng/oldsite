@@ -1,7 +1,13 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
-    url: /publications/
+    url: /publications_list/
+  
+  - title: "Peer review"
+    url: /review/
 
 #  - title: "Talks"
 #    url: /talks/    

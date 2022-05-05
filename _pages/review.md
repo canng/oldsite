@@ -3,8 +3,7 @@ layout: archive
 title: "Peer Review"
 permalink: /review/
 author_profile: true
-#redirect_from:
-  #- /resume
+
 ---
 
 ## Volunteer Reviewer for 
@@ -16,7 +15,7 @@ author_profile: true
  
 
 ### 2021 
- 
+
 * <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>, Elsevier (WoS/Scopus) – (2) 
 * <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>, Taylor and Francis (WoS/Scopus) – (1) 
 * <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>, IOP (WoS/Scopus) – (3) 
