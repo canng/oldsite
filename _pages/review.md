@@ -7,17 +7,15 @@ author_profile: true
   #- /resume
 ---
 
-{% include base_path %}
+## Volunteer Reviewer for 
 
-### Volunteer Reviewer for 
-
-#### 2022 
+### 2022 
  
 * <a href="https://www.journals.elsevier.com/environmental-challenges">Environmental Challenges</a>, Elsevier (WoS/Scopus) – (1) 
 * <a href="https://www.cell.com/heliyon/home">Heliyon</a>, Elsevier (WoS/Scopus) – (1) 
  
 
-#### 2021 
+### 2021 
  
 * <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>, Elsevier (WoS/Scopus) – (2) 
 * <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>, Taylor and Francis (WoS/Scopus) – (1) 
