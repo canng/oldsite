@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Draft Post"
+date:   2022-05-04 00:00:00
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 
