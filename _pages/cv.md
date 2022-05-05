@@ -29,18 +29,15 @@ redirect_from:
 
 
 #### 2012 – 2016: B.Eng. Land Management (GPA: 3.53/4.00) 
-<ul>
-    <li> Can Tho University (CTU), Vietnam </li>
-    <li> Dissertation: <i>"Studying and Evaluating Ecosystem Service Values of Rice-Shrimp Farming in An Minh district, Kien Giang province" </i> </li>
-</ul>
-<hr>
+* Can Tho University (CTU), Vietnam
+* Dissertation: <i>"Studying and Evaluating Ecosystem Service Values of Rice-Shrimp Farming in An Minh district, Kien Giang province" </i>
+
 
 ### Research Experiences
 #### Aug 2019 – Present: Research Assistant (RA)
-<ul>
-    <li> AGAR Lab, JGSEE, KMUTT, Thailand (under supervision of Dr. Amnat Chidthaisong & Dr. Pariwate Varnakovida) </li> 
-    <li> Duty: Earth observation & Geospatial Data Analysis </li> 
-</ul>
+* AGAR Lab, JGSEE, KMUTT, Thailand (under supervision of Dr. Amnat Chidthaisong & Dr. Pariwate Varnakovida)
+* Duty: Earth observation & Geospatial Data Analysis
+
 
 #### Mar 2016 – Jul 2019: Research & Teaching Assistant (RA/TA)
 <ul>
