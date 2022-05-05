@@ -9,9 +9,7 @@ tags:
 
 
 <div style="width: 60%; height: 60%">
-  
-  ![alt text]({{ site.baseurl }}/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg  =250x250)
-  
+  ![alt text]({{ site.baseurl }}/images/2022/2022-04-26-Outstanding-Reviewer-Award.jpg)
 </div>
 
 
