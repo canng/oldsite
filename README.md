@@ -1,5 +1,3 @@
 # Readme 
 
-https://canng.github.io/
-
 It was forked and adapted from [Stuart Geiger](https://github.com/staeiou)'s [academicpages](https://academicpages.github.io), which was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
