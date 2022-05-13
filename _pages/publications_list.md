@@ -11,14 +11,10 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 </i>
 <ol reversed>
 
-<hr>
-
 <h2> 2022 </h2>
 <li> <b>Nguyen, C. T.*</b>, Chidthaisong*, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 103882.<a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a></li> 
 
 <li> Diem, P. K., Diem, N. K., <b>Can, N. T.</b>, Minh, V. Q., Huong, H. T. T., Diep, N. T. H., & Tao, P. C., 2022. Assessing the applicability of Fusion Landsat-MODIS data for mapping agricultural land use - A case study in An Giang Province. IOP Conference Series: Earth and Environmental Science, 964(1), 012005. <a href="https://doi.org/10.1088/1755-1315/964/1/012005"> 10.1088/1755-1315/964/1/012005</a></li> 
-
-<hr>
 
 <h2> 2021 </h2>
 <li> <b>Can, N.T.</b>, Chidthaisong, A., Diem, P.K., Huo, L., 2021. A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8. Land 10, 1–17. <a href="https://doi.org/10.3390/land10030231"> 10.3390/land10030231</a></li> 
@@ -31,21 +27,15 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 
 <li> Loc, H.H., Park, E., Thu, T.N., Diep, N.T.H., <b>Can, N.T.</b>, 2021. An enhanced analytical framework of participatory GIS for ecosystem services assessment applied to a Ramsar wetland site in the Vietnam Mekong Delta. Ecosyst. Serv. 48, 101245. <a href="https://doi.org/10.1016/j.ecoser.2021.101245"> 10.1016/j.ecoser.2021.101245</a></li> 
 
-<hr>
-
 <h2> 2020 </h2>
 <li><b>Can, N.T.*</b>, Diep, N.T.H., Diem, P.K., 2020. Factors Affecting Urban Electricity Consumption: a case study in the Bangkok Metropolitan Area using an Integrated approach of Earth Observation data and Data analysis. Environ. Sci. Pollut. Res. 28, 12056–12066. <a href="https://doi.org/10.1007/s11356-020-09157-6"> 10.1007/s11356-020-09157-6</a></li> 
 
 <li> Nguyen, T. H. D., <b>Nguyen, T. C.</b>, Nguyen, T. N. T., & Doan, T. N. (2020). Flood inundation mapping using Sentinel-1A in An Giang province in 2019. Vietnam Journal of Science, Technology and Engineering, 62(4), 36–42. <a href="https://doi.org/10.31276/vjste.62(4).36-42"> 10.31276/vjste.62(4).36-42</a></li> 
 
-<hr>
-
 <h2> 2019 </h2>
 <li><b>Can, N.T.*</b>, Diep, N.T.H., Iabchoon, S., Varnakovida, P., Minh, V.Q., 2019. Analysis of Factors Affecting Urban Heat Island Phenomenon in Bangkok Metropolitan Area, Thailand. VNU J. Sci. Earth Environ. Sci. 35, 53–62. <a href="https://doi.org/10.25073/2588-1094/vnuees.4355"> 10.25073/2588-1094/vnuees.4355</a></li> 
 
 <li> Diep, N. T. H., Korsem, T., <b>Can, N. T.</b>, Phonphan, W., & Vo Quang Minh., 2019. Determination of aquaculture distribution by using remote sensing technology in Thanh Phu district, Ben Tre province, Vietnam. Vietnam Journal of Science, Technology and Engineering, 61(2), 35–41. <a href="https://doi.org/10.31276/VJSTE.61(2).35-41"> 10.31276/VJSTE.61(2).35-41</a></li> 
-
-<hr>
 
 <h2> 2017 </h2>
 <li> Loc, H.H., Diep, N.T.H., <b>Can, N.T.</b>, Irvine, K.N., Shimizu, Y., 2017. Integrated evaluation of Ecosystem Services in Prawn-Rice rotational crops, Vietnam. Ecosyst. Serv. 26, 377–387. <a href="https://doi.org/10.1016/j.ecoser.2016.04.007"> 10.1016/j.ecoser.2016.04.007</a> </li> 
@@ -62,17 +52,16 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 
 <li> <b>Nguyen, C. T.</b>, and Chidthaisong*, A., 2022. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. The 11th International Conference on Environmental Engineering, Science and Management. Bangkok, Thailand. pp. 333-340.
 
-<hr>
-
 <h2> 2018 </h2>
 <li> Diep, N.T.H., Loi, N.T., <b>Can, N.T.</b>, 2018. Monitoring erosion and accretion situation in the coastal zone at Kien Giang province, in: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, GeoInformation For Disaster Management (Gi4DM). Istanbul, Turkey, pp. 197–203. <i>(Conference).</i><a href="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W4/197/2018/"> Link</a></li> 
 
 <li>Diep, N. T. H., Chi, X. D., and <b>Can, N. T.</b>, 2018. Developing an application on land use planning information in Gia Rai district, Bac Lieu province, GeoInformatics for Spatial-Infrastructure Development in Earth & Allied Sciences (GIS-IDEAS), 342–352.</li>
 
-<hr>
-
 <h2> 2017 </h2>
 <li><b>Nguyen, C. T.</b>, Nguyen, D. T. H., Chi, T. B., & Ho, H. L., 2017. Ecosystem services valuation and economic approaches for intensive shrimp assessment in Kien Luong district, Kien Giang province. The International Scientific Workshop on “Scientific Research for Training Assignment”. Kien Giang, Vietnam. pp. 14–22.</i>
+
+<h2> 2016 </h2>
+<li><b>Can, N. T.</b>, Diep, N. T. H., & Loc, H. H., 2016. Exploratory Assessment of Prawn-Rice Rotational Crops Spatial Distribution and Ecosystem Services Values. The 37th Asian Conference on Remote Sensing. Sri Lanka. </li>
 
 </ol>
 <hr>
