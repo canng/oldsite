@@ -5,7 +5,7 @@ permalink: /publications_list/
 author_profile: true
 ---
 
-## Selected international publications
+## Selected peer-reviewed arcticles
 <i> 
 Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 </i>
@@ -47,14 +47,27 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 
 <hr>
 
-<h2> 2018 </h2>
-<li> Diep, N.T.H., Loi, N.T., <b>Can, N.T.</b>, 2018. Monitoring erosion and accretion situation in the coastal zone at Kien Giang province, in: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, GeoInformation For Disaster Management (Gi4DM). Istanbul, Turkey, pp. 197–203. <i>(Conference).</i><a href="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W4/197/2018/"> Link</a></li> 
-
-<hr>
-
 <h2> 2017 </h2>
 <li> Loc, H.H., Diep, N.T.H., <b>Can, N.T.</b>, Irvine, K.N., Shimizu, Y., 2017. Integrated evaluation of Ecosystem Services in Prawn-Rice rotational crops, Vietnam. Ecosyst. Serv. 26, 377–387. <a href="https://doi.org/10.1016/j.ecoser.2016.04.007"> 10.1016/j.ecoser.2016.04.007</a> </li> 
 
 </ol>
 <hr>
 <i> * Corresponding Author </i>
+
+## Conference presentations
+
+<ol reversed>
+
+<h2> 2022 </h2>
+
+<hr>
+
+<h2> 2022 </h2>
+<li> <b>Nguyen, C. T.</b>, and Chidthaisong*, A., 2022. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. The 11th International Conference on Environmental Engineering, Science and Management. Bangkok, Thailand. pp. 333-340.
+<li>Nguyen</li>
+<hr>
+
+<h2> 2018 </h2>
+<li> Diep, N.T.H., Loi, N.T., <b>Can, N.T.</b>, 2018. Monitoring erosion and accretion situation in the coastal zone at Kien Giang province, in: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, GeoInformation For Disaster Management (Gi4DM). Istanbul, Turkey, pp. 197–203. <i>(Conference).</i><a href="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W4/197/2018/"> Link</a></li> 
+
+</ol>
