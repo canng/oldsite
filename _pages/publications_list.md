@@ -44,6 +44,9 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 <hr>
 <i> * Corresponding Author </i>
 
+<hr>
+______________________________________________________________
+
 ## Conference presentations
 
 <ol reversed>
