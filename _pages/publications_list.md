@@ -60,14 +60,19 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 
 <h2> 2022 </h2>
 
-<hr>
-
-<h2> 2022 </h2>
 <li> <b>Nguyen, C. T.</b>, and Chidthaisong*, A., 2022. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. The 11th International Conference on Environmental Engineering, Science and Management. Bangkok, Thailand. pp. 333-340.
-<li>Nguyen</li>
+
 <hr>
 
 <h2> 2018 </h2>
 <li> Diep, N.T.H., Loi, N.T., <b>Can, N.T.</b>, 2018. Monitoring erosion and accretion situation in the coastal zone at Kien Giang province, in: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, GeoInformation For Disaster Management (Gi4DM). Istanbul, Turkey, pp. 197–203. <i>(Conference).</i><a href="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W4/197/2018/"> Link</a></li> 
 
+<li>Diep, N. T. H., Chi, X. D., and <b>Can, N. T.</b>, 2018. Developing an application on land use planning information in Gia Rai district, Bac Lieu province, GeoInformatics for Spatial-Infrastructure Development in Earth & Allied Sciences (GIS-IDEAS), 342–352.</li>
+
+<hr>
+
+<h2> 2017 </h2>
+<li><b>Nguyen, C. T.</b>, Nguyen, D. T. H., Chi, T. B., & Ho, H. L., 2017. Ecosystem services valuation and economic approaches for intensive shrimp assessment in Kien Luong district, Kien Giang province. The International Scientific Workshop on “Scientific Research for Training Assignment”. Kien Giang, Vietnam. pp. 14–22.</i>
+
 </ol>
+<hr>
