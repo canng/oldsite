@@ -12,7 +12,7 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 <ol reversed>
 
 <h2> 2022 </h2>
-<li> <b>Nguyen, C. T.*</b>, Chidthaisong*, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 103882.<a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a></li> 
+<li> <b>Nguyen, C. T.*</b>, Chidthaisong*, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 103882. <a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a></li> 
 
 <li> Diem, P. K., Diem, N. K., <b>Can, N. T.</b>, Minh, V. Q., Huong, H. T. T., Diep, N. T. H., & Tao, P. C., 2022. Assessing the applicability of Fusion Landsat-MODIS data for mapping agricultural land use - A case study in An Giang Province. IOP Conference Series: Earth and Environmental Science, 964(1), 012005. <a href="https://doi.org/10.1088/1755-1315/964/1/012005"> 10.1088/1755-1315/964/1/012005</a></li> 
 
@@ -60,7 +60,7 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 <li>Diep, N. T. H., Chi, X. D., and <b>Can, N. T.</b>, 2018. Developing an application on land use planning information in Gia Rai district, Bac Lieu province. GeoInformatics for Spatial-Infrastructure Development in Earth & Allied Sciences (GIS-IDEAS), 342–352.</li>
 
 <h2> 2017 </h2>
-<li><b>Nguyen, C. T.</b>, Nguyen, D. T. H., Chi, T. B., & Ho, H. L., 2017. Ecosystem services valuation and economic approaches for intensive shrimp assessment in Kien Luong district, Kien Giang province. The International Scientific Workshop on “Scientific Research for Training Assignment”. Kien Giang, Vietnam. pp. 14–22.</i>
+<li><b>Nguyen, C. T.</b>, Nguyen, D. T. H., Chi, T. B., & Ho, H. L., 2017. Ecosystem services valuation and economic approaches for intensive shrimp assessment in Kien Luong district, Kien Giang province. The International Scientific Workshop on “Scientific Research for Training Assignment”. Kien Giang, Vietnam. pp. 14–22.</li>
 
 <h2> 2016 </h2>
 <li><b>Can, N. T.</b>, Diep, N. T. H., & Loc, H. H., 2016. Exploratory Assessment of Prawn-Rice Rotational Crops Spatial Distribution and Ecosystem Services Values. The 37th Asian Conference on Remote Sensing. Sri Lanka. </li>
