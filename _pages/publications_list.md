@@ -5,7 +5,7 @@ permalink: /publications_list/
 author_profile: true
 ---
 
-## Selected peer-reviewed arcticles
+# Selected peer-reviewed arcticles
 <i> 
 Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 </i>
@@ -46,7 +46,7 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 
 <hr>
 
-## Conference presentations
+# Conference presentations
 
 <ol reversed>
 
