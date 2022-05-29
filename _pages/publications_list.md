@@ -7,7 +7,7 @@ author_profile: true
 
 # Selected peer-reviewed arcticles
 <i>  Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u> </i>
-u
+
 <i> * Corresponding Author </i>
 
 <ol reversed>
