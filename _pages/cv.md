@@ -75,15 +75,15 @@ My full CV can be found out [here](/files/pdfs/Can.T.Nguyen_CV_202205.pdf).
 ## Projects 
 * “So COOL KMUTT Plan” (2021). Funded by KMUTT under KMUTT Steering Committee for Carbon Neutrality by 2040. Duties: Leader (01 subproject) & Member (01 subproject).  
 * “Land resource Assessment for Sustainable Development of Agriculture - Forestry - Fisheries and Socio-economic development in An Bien District, Kien Giang Province” (2020). Duty: Remote sensing Technical Assistance.  
-* Can Tho University Improvement Project (2017-2021). Co-funded by JICA and Japanese ODA loan. Duties: Proposal Development (03 branch topics) & Implementation (subproject ODA-E8).  
+* Can Tho University Improvement Project (2017-2021). Co-funded by JICA and Japanese ODA loan. Duties: Proposal Development (03 branch topics) & Implementation (01 subproject ODA-E8).  
 * “Monitoring the Development and Seasonal calendar of Rice for Forecasting Rice pests“. Funded by Department of Cultivation and Plant Protection in Vinh Long province (2017). Duty: Remote sensing Technical Assistance.  
-* “Solution for Cloud removal on MODIS time to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam”. Funded by Can Tho University (2017-2018). Duty: Member.  
+* “Solution for Cloud removal on MODIS time-series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam”. Funded by Can Tho University (2017-2018). Duty: Member.  
 * “Impact Assessment of Climate Change on Aquaculture/Fisheries Household Livelihood in the Lower Mekong Delta, Vietnam". Funded by SEARCA Seed Fund for Strategic Research and Training (SFRT) Program (2015-2016). Duty: Remote sensing Technical Assistance.  
  
  <hr>
 
 ## Presentations/ Invited Talks 
-* "Urbanization and Climate change impacts on Urban Heat Island in Bangkok and Ho Chi Minh city” at The 2nd International Ph.D. Students Conference on Environment. Mahidol University, Thailand (05/08/2021). 
+* “Urbanization and Climate change impacts on Urban Heat Island in Bangkok and Ho Chi Minh city” at The 2nd International Ph.D. Students Conference on Environment. Mahidol University, Thailand (05/08/2021). 
 * “InVEST – Urban Cooling Model and Applications” at KMUTT Steering Committee for Carbon Neutrality by 2040. KMUTT, Thailand (23/06/2021). 
 * “Mapping Cultural Ecosystem Services using Public Participatory Mapping” at training on Approaches to Evaluating Ecosystem Services. Can Tho University, Vietnam (18/06/2021). 
  
