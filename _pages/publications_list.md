@@ -8,6 +8,7 @@ author_profile: true
 # Selected peer-reviewed arcticles
 <i> 
 Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
+* Corresponding Author
 </i>
 <ol reversed>
 
@@ -42,8 +43,6 @@ Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u>
 
 </ol>
 <hr>
-<i> * Corresponding Author </i>
-
 <hr>
 
 # Conference presentations
