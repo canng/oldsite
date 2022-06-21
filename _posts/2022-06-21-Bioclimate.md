@@ -7,7 +7,7 @@ tags:
   - others
 ---
 
-# BIOCLIMATIC ARCHITECTURE: PRINCIPLE AND BEST PRACTICES
+# [TRAINING] BIOCLIMATIC ARCHITECTURE: PRINCIPLE AND BEST PRACTICES
 
 
 <i> The objective of this training is to provide Vietnamese actors with a bioclimatic design method to apply in new construction projects to lower operating energy and improve thermal comfort. This training is designed based on the learning from the 2 pilot projects supported by ADEME in the framework of collaboration with the Ministry of Construction of Vietnam.  </i>
