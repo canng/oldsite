@@ -1,6 +1,6 @@
 ---
-title:  "Reviewer report feedback for Environmental Research Letters"
-date:   2022-06-15 00:00:00
+title:  "Complete training on Bioclimatic Architecture: Principle and Best practices"
+date:   2022-06-21 00:00:00
 author: Can Nguyen
 categories: others
 tags: 
