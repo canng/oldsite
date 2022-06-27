@@ -1,6 +1,6 @@
 ---
-title: ""
-excerpt: ""
+title: "This page is currently under construction"
+excerpt: "This page is currently under construction"
 collection: portfolio
 ---
 
