@@ -13,7 +13,7 @@ author_profile: true
 <ol reversed>
 
 <h2> 2022 </h2>
-<li> <b>Nguyen, C. T.*</b>, Chidthaisong*, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 103882. <a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a></li> 
+<li> <b>Nguyen, C. T.*</b>, Chidthaisong, A.*, Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 103882. <a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a></li> 
 
 <li> Diep, N.T.H., <b>Can, N.T.*</b>, Diem, P.K., Hoang, N.X., Kafy, A.A., 2022. Assessment on controlling factors of urbanization possibility in a newly developing city of the Vietnamese Mekong delta using logistic regression analysis. Phys. Chem. Earth, Parts A/B/C 103065. <a href="https://doi.org/10.1016/j.pce.2021.103065"> 10.1016/j.pce.2021.103065</a></li> 
 
@@ -65,3 +65,5 @@ author_profile: true
 <li><b>Can, N. T.</b>, Diep, N. T. H., & Loc, H. H., 2016. Exploratory Assessment of Prawn-Rice Rotational Crops Spatial Distribution and Ecosystem Services Values. The 37th Asian Conference on Remote Sensing. Sri Lanka. </li>
 
 <hr>
+
+
