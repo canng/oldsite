@@ -13,7 +13,7 @@ author_profile: true
 * <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>, Elsevier (WoS/Scopus) – (1) 
 * <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>, IOP (WoS/Scopus) – (1) 
 * <a href="https://www.journals.elsevier.com/environmental-challenges">Environmental Challenges</a>, Elsevier (WoS/Scopus) – (2) 
-* <a href="https://www.cell.com/heliyon/home">Heliyon</a>, Elsevier (WoS/Scopus) – (1) 
+* <a href="https://www.cell.com/heliyon/home">Heliyon</a>, Elsevier (WoS/Scopus) – (2) 
  
 
 ### 2021 
