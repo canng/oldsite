@@ -15,14 +15,14 @@ author_profile: true
 <h2> 2022 </h2>
 <li> <b>Nguyen, C. T.*</b>, Chidthaisong*, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 103882. <a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a></li> 
 
+<li> Diep, N.T.H., <b>Can, N.T.*</b>, Diem, P.K., Hoang, N.X., Kafy, A.A., 2022. Assessment on controlling factors of urbanization possibility in a newly developing city of the Vietnamese Mekong delta using logistic regression analysis. Phys. Chem. Earth, Parts A/B/C 103065. <a href="https://doi.org/10.1016/j.pce.2021.103065"> 10.1016/j.pce.2021.103065</a></li> 
+
 <li> Diem, P. K., Diem, N. K., <b>Can, N. T.</b>, Minh, V. Q., Huong, H. T. T., Diep, N. T. H., & Tao, P. C., 2022. Assessing the applicability of Fusion Landsat-MODIS data for mapping agricultural land use - A case study in An Giang Province. IOP Conference Series: Earth and Environmental Science, 964(1), 012005. <a href="https://doi.org/10.1088/1755-1315/964/1/012005"> 10.1088/1755-1315/964/1/012005</a></li> 
 
 <h2> 2021 </h2>
 <li> <b>Can, N.T.</b>, Chidthaisong, A., Diem, P.K., Huo, L., 2021. A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8. Land 10, 1–17. <a href="https://doi.org/10.3390/land10030231"> 10.3390/land10030231</a></li> 
 
 <li> Yaung, K. La, Chidthaisong, A., Limsakul, A., Varnakovida, P., <b>Can, N.T.</b>, 2021. Land Use Land Cover Changes and Their Effects on Surface Air Temperature in Myanmar and Thailand. Sustainability 13, 1–21.<a href="https://doi.org/10.3390/su131910942"> 10.3390/su131910942</a>  </li> 
-
-<li> Diep, N.T.H., <b>Can, N.T.*</b>, Diem, P.K., Hoang, N.X., Kafy, A.A., 2021. Assessment on controlling factors of urbanization possibility in a newly developing city of the Vietnamese Mekong delta using logistic regression analysis. Phys. Chem. Earth, Parts A/B/C 103065. <a href="https://doi.org/10.1016/j.pce.2021.103065"> 10.1016/j.pce.2021.103065</a></li> 
 
 <li> <b>Can, N.T.*</b>, Diep, N.T.H., Iabchoon, S., 2021. Direction of urban expansion in the Bangkok Metropolitan Area, Thailand under the impacts of a national strategy. Vietnam J. Earth Sci. 43. <a href="https://doi.org/10.15625/2615-9783/16313"> 10.15625/2615-9783/16313</a></li> 
 
