@@ -10,6 +10,7 @@ author_profile: true
 
 ### 2022
 
+* <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>, Taylor and Francis (WoS/Scopus) – (1) 
 * <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>, Elsevier (WoS/Scopus) – (1) 
 * <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>, IOP (WoS/Scopus) – (1) 
 * <a href="https://www.journals.elsevier.com/environmental-challenges">Environmental Challenges</a>, Elsevier (WoS/Scopus) – (2) 
