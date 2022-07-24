@@ -7,8 +7,6 @@ tags:
   - others
 ---
 
-### Successfully defended the Ph.D. dissertation
-
 
 <i> On 31 May 2022, I successfully defended my doctoral disseration. </i>
 
