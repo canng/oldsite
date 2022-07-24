@@ -12,13 +12,16 @@ tags:
 
 <i> On 31 May 2022, I successfully defended my doctoral disseration. </i>
 
-<br>
 <b>Committee members: </b>
 
 Assoc. Prof. Dr. Amnat Chidthaisong (JGSEE, KMUTT)
+
 Dr. Pariwate Varnakovida (Faculty of Science, KMUTT)
+
 Asst. Prof. Dr. Chaiwat Ekkawatpanit (Faculty of Engineering, KMUTT)
+
 Dr. Atsamon Limsakul (Environmental Research and Training Center)
+
 Prof. Dr. Jiaguo Qi (Michigan State University)
 
 <img src="/images/2022/2022-07-24-01.png" width="650" height="750"/>
