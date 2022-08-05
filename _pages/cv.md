@@ -38,7 +38,7 @@ My full CV can be found out [here](/files/pdfs/Can.T.Nguyen_CV_2022.pdf).
 <hr>
 
 ## Research Experiences
-### Aug 2019 – Present: Research Assistant (RA)
+### Aug 2019 – Present: Research Assistant (RA) and  Freelance Researcher (FR)
 * AGAR Lab, JGSEE, KMUTT, Thailand (under supervision of Dr. Amnat Chidthaisong & Dr. Pariwate Varnakovida)
 * Duty: Earth observation & Geospatial Data Analysis
 
@@ -83,7 +83,7 @@ My full CV can be found out [here](/files/pdfs/Can.T.Nguyen_CV_2022.pdf).
  <hr>
 
 ## Presentations/ Invited Talks and Lectures
-* "Google Earth Engine: from Basic" for Master of Land Management (K28) at Can Tho University. Vietnam (13/03/2022).
+* "Google Earth Engine: from Basic" for Master of Land Management (K28). Can Tho University, Vietnam (13/03/2022).
 * “Urbanization and Climate change impacts on Urban Heat Island in Bangkok and Ho Chi Minh city” at The 2nd International Ph.D. Students Conference on Environment. Mahidol University, Thailand (05/08/2021). 
 * “InVEST – Urban Cooling Model and Applications” at KMUTT Steering Committee for Carbon Neutrality by 2040. KMUTT, Thailand (23/06/2021). 
 * “Mapping Cultural Ecosystem Services using Public Participatory Mapping” at training on Approaches to Evaluating Ecosystem Services. Can Tho University, Vietnam (18/06/2021). 
