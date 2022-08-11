@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV can be found out [here](/files/pdfs/Can.T.Nguyen_CV_2022.pdf).
+<< My full CV can be found out [here](/files/pdfs/Can.T.Nguyen_CV_2022.pdf) >>
 
 <hr>
 
