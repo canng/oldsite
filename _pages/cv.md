@@ -23,7 +23,7 @@ redirect_from:
 <hr>
 
 ## Education  
-### 2019 – present: Ph.D. Environmental Technology
+### 2019 – 2022: Ph.D. Environmental Technology
 * Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
 * Dissertation: <i>"Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"</i>
 
@@ -61,6 +61,7 @@ redirect_from:
 <hr>
 
 ## Trainings 
+* May - June 2022: "Bioclimatic Architecture: Principle and Best Practices". ADEME, DSTE, Ministry of Construction (MOC) in Vietnam with support of Vietnam Energy Efficiency Network (EEN)
 * Dec 2019: “Remote Sensing Land use/cover Change and Climate Impacts in Coastal Zone”. South/Southeast Asia Research Initiative (SARI), Land cover/land use Change Program, NASA and Prince of Songkla University (Phuket, Thailand).
 * Dec 2018: "R-Statistics". Nagasaki University and Can Tho University (Can Tho, Vietnam).  
 * Oct 2018: "Google Earth Engine Training". HCMC Institute of Resources Geography and SERVIR-Mekong (HCMC, Vietnam).  
