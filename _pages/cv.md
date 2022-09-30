@@ -34,7 +34,13 @@ redirect_from:
 <hr>
 
 ## Research Experiences
-### Aug 2019 – Present: Research Assistant (RA) and  Freelance Researcher (FR)
+
+### Sep 2022 – Present: Postdoctoral researcher 
+* Prince of SongKla University (PSU) 
+* Space Technology Research Center, Geo-Informatics & Space Technology Development Agency (GISTDA), Thailand
+
+
+### Aug 2019 – Aug 2022: Research Assistant (RA) 
 * AGAR Lab, JGSEE, KMUTT, Thailand (under supervision of Dr. Amnat Chidthaisong & Dr. Pariwate Varnakovida)
 * Duty: Earth observation & Geospatial Data Analysis
 
