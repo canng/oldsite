@@ -27,7 +27,7 @@ author_profile: true
 
 <li> Yaung, K. La, Chidthaisong, A., Limsakul, A., Varnakovida, P., <b>Nguyen, C.T.</b>, 2021. Land Use Land Cover Changes and Their Effects on Surface Air Temperature in Myanmar and Thailand. Sustainability 13, 1–21.<a href="https://doi.org/10.3390/su131910942"> 10.3390/su131910942</a>  </li> 
 
-<li> <b>Nguyen, C.T..*</b>, Diep, N.T.H., Iabchoon, S., 2021. Direction of urban expansion in the Bangkok Metropolitan Area, Thailand under the impacts of a national strategy. Vietnam J. Earth Sci. 43. <a href="https://doi.org/10.15625/2615-9783/16313"> 10.15625/2615-9783/16313</a></li> 
+<li> <b>Nguyen, C.T.*</b>, Diep, N.T.H., Iabchoon, S., 2021. Direction of urban expansion in the Bangkok Metropolitan Area, Thailand under the impacts of a national strategy. Vietnam J. Earth Sci. 43. <a href="https://doi.org/10.15625/2615-9783/16313"> 10.15625/2615-9783/16313</a></li> 
 
 <li> Loc, H.H., Park, E., Thu, T.N., Diep, N.T.H., <b>Can, N.T.</b>, 2021. An enhanced analytical framework of participatory GIS for ecosystem services assessment applied to a Ramsar wetland site in the Vietnam Mekong Delta. Ecosyst. Serv. 48, 101245. <a href="https://doi.org/10.1016/j.ecoser.2021.101245"> 10.1016/j.ecoser.2021.101245</a></li> 
 
