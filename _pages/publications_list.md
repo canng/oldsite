@@ -14,7 +14,7 @@ author_profile: true
 
 <h2> 2022 </h2>
 
-<li>Diep N.T.H., Loc H.H., <b>Nguyen, C. T.</b>, Park E., & Thanh T., 2022. Spatial-social evaluations of ecosystem services of adaptive aquaculture models using SAR and multivariate analyses: a case in the Vietnamese Mekong Delta. Environmental Monitoring and Assessment, 194(778). <a href="https://link.springer.com/article/10.1007/s10661-022-10182-w"> 10.1007/s10661-022-10182-w</a></li> 
+<li>Diep, N.T.H., Loc, H.H., <b>Nguyen, C. T.</b>, Park, E., & Thanh, T., 2022. Spatial-social evaluations of ecosystem services of adaptive aquaculture models using SAR and multivariate analyses: a case in the Vietnamese Mekong Delta. Environmental Monitoring and Assessment, 194(778). <a href="https://link.springer.com/article/10.1007/s10661-022-10182-w"> 10.1007/s10661-022-10182-w</a></li> 
 
 <li> <b>Nguyen, C. T.*</b>, Chidthaisong, A.*, Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 103882. <a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a></li> 
 
