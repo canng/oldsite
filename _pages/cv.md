@@ -22,7 +22,7 @@ redirect_from:
 ## Education  
 ### 2019 – 2022: Ph.D. Environmental Technology
 * Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
-* Dissertation: <i>["Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"](https://www.researchgate.net/publication/363465434_Assessment_of_Climate_Change_and_Urbanization_Impacts_on_Urban_Surface_Temperature_and_Ecosystem_Services_of_Urban_Green_Spaces)</i>
+* Dissertation: <i>["Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"](https://www.researchgate.net/project/Assessment-of-Climate-Change-and-Urbanization-Impacts-on-Urban-Surface-Temperature-and-Ecosystem-Services-of-Urban-Green-Spaces)</i>
 
 ### 2017 – 2019: M.Sc. Land Management (GPA: 3.71/4.00) 
 * Can Tho University (CTU), Vietnam
