@@ -37,7 +37,7 @@ redirect_from:
 ## Research Experiences
 
 ### Sep 2022 – Present: Postdoctoral researcher 
-* Prince of SongKla University (PSU) 
+* Prince of Songkhla University (PSU - Hatyai campus) 
 * Space Technology Research Center, Geo-Informatics & Space Technology Development Agency (GISTDA), Thailand
 
 
