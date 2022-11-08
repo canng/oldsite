@@ -63,8 +63,9 @@ redirect_from:
  
 <hr>
 
-## Trainings 
-* May - June 2022: "Bioclimatic Architecture: Principle and Best Practices". ADEME, DSTE, Ministry of Construction (MOC) in Vietnam with support of Vietnam Energy Efficiency Network (EEN)
+## Trainings
+* 11, 18, 25 Oct 2022: "Accessing and Analyzing Air Quality Data from Geostationary". NASA’s Applied Remote Sensing Training (ARSET) Program. 
+* May - June 2022: "Bioclimatic Architecture: Principle and Best Practices". ADEME, DSTE, Ministry of Construction (MOC) in Vietnam with support of Vietnam Energy Efficiency Network (EEN).
 * Dec 2019: “Remote Sensing Land use/cover Change and Climate Impacts in Coastal Zone”. South/Southeast Asia Research Initiative (SARI), Land cover/land use Change Program, NASA and Prince of Songkla University (Phuket, Thailand).
 * Dec 2018: "R-Statistics". Nagasaki University and Can Tho University (Can Tho, Vietnam).  
 * Oct 2018: "Google Earth Engine Training". HCMC Institute of Resources Geography and SERVIR-Mekong (HCMC, Vietnam).  
