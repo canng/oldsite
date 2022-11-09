@@ -11,10 +11,10 @@ author_profile: true
 ### 2022
 
 
-* <a href="https://www.sciencedirect.com/journal/world-development-sustainability">World Development Sustainability</a>, Elsevier (Directory of Open Access Journals (DOAJ)) – (1) 
+* <a href="https://www.sciencedirect.com/journal/world-development-sustainability">World Development Sustainability</a>, Elsevier ( (DOAJ) – (1) 
 * <a href="https://www.mdpi.com/journal/remotesensing">Remote Sensing</a>, MDPI (WoS/Scopus) – (2) 
 * <a href="https://www.sciencedirect.com/journal/the-egyptian-journal-of-remote-sensing-and-space-science">The Egyptian Journal of Remote Sensing and Space Sciences</a>, Elsevier (WoS/Scopus) – (1) 
-* <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>, Taylor and Francis (WoS/Scopus) – (2) 
+* <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>, Taylor and Francis (WoS/Scopus) – (3) 
 * <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>, Elsevier (WoS/Scopus) – (1) 
 * <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>, IOP (WoS/Scopus) – (1) 
 * <a href="https://www.journals.elsevier.com/environmental-challenges">Environmental Challenges</a>, Elsevier (WoS/Scopus) – (2) 
