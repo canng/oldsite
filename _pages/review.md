@@ -10,7 +10,7 @@ author_profile: true
 
 ### 2022
 
-
+* <a href="https://www.mdpi.com/journal/atmosphere">Atmosphere</a>, MDPI (WoS/Scopus) – (1) 
 * <a href="https://www.sciencedirect.com/journal/world-development-sustainability">World Development Sustainability</a>, Elsevier (DOAJ) – (1) 
 * <a href="https://www.mdpi.com/journal/remotesensing">Remote Sensing</a>, MDPI (WoS/Scopus) – (2) 
 * <a href="https://www.sciencedirect.com/journal/the-egyptian-journal-of-remote-sensing-and-space-science">The Egyptian Journal of Remote Sensing and Space Sciences</a>, Elsevier (WoS/Scopus) – (1) 
