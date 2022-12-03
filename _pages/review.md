@@ -10,6 +10,7 @@ author_profile: true
 
 ### 2022
 
+* <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>, Springer (WoS/Scopus) – (1) 
 * <a href="https://www.mdpi.com/journal/sustainability">Sustainability</a>, MDPI (WoS/Scopus) – (1) 
 * <a href="https://www.mdpi.com/journal/sensors">Sensors</a>, MDPI (WoS/Scopus) – (1) 
 * <a href="https://www.mdpi.com/journal/atmosphere">Atmosphere</a>, MDPI (WoS/Scopus) – (1) 
