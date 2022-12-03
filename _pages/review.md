@@ -24,8 +24,8 @@ author_profile: true
 * <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>, IOP (WoS/Scopus)
 * <a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a>, IOP (WoS/Scopus)
 * <a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI)
+
 * The 42nd Asian Conference on Remote Sensing <a href="https://a-a-r-s.org/">(AARS)</a> 
- 
 
 <br/>
 <hr>
