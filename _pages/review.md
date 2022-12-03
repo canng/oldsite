@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-## Volunteer Reviewer for 
-
 ### Elsevier
 * <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>
 * <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>
