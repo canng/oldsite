@@ -10,7 +10,7 @@ redirect_from:
 
 <hr>
 
-Can Trong Nguyen is an early-career scholar. He is currently working as a posdoctoral researcher for a joint project between [Prince of Songkla University (Hatyai campus)](https://en.psu.ac.th/) and Geo-Informatics and Space Technology Development Agency [(GISTDA)](https://www.gistda.or.th/home.php?lang=EN). 
+Can Trong Nguyen is an early-career scholar. He is currently working as a researcher for a joint project between [Prince of Songkla University (Hatyai campus)](https://en.psu.ac.th/) and Geo-Informatics and Space Technology Development Agency [(GISTDA)](https://www.gistda.or.th/home.php?lang=EN). 
 
 He completed his doctoral degree in Environmental Technology at The Joint Graduate School of Energy and Environment [(JGSEE)](https://www.jgsee.kmutt.ac.th/v3/), King Mongkut’s University of Technology Thonburi [(KMUTT)](https://www.kmutt.ac.th/en/), Thailand. His research focuses are Urbanization and Climate Change Impacts on Urban environment and Nature-based Solutions (NbS).
 
