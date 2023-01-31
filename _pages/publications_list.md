@@ -54,6 +54,10 @@ author_profile: true
 
 <h2> 2022 </h2>
 
+<li><b>Nguyen, C. T.</b>, Chayawatto N.*, Kubaha K., Chidthaisong A., Varnakovida P., Aregarot P., 2022. Effects of increasing green areas on campus microclimate using InVEST urban cooling model. The 8th International Conference on Sustainable Energy and Environment (SEE). Bangkok, Thailand (7-9/11/2022).
+
+<li>Nguyen, D. K., Phan, D. K., <b>Nguyen, C.T.</b>, Kaewthongrach, R., Channumsin, S., Chongcheawchamnan M., 2022. Variations of urban heat island in a coastal city of Hat Yai, Thailand. The 8th International Conference on Sustainable Energy and Environment (SEE). Bangkok, Thailand (7-9/11/2022).
+
 <li> <b>Nguyen, C. T.*</b>, and Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.
 
 <li> <b>Nguyen, C. T.</b>, and Chidthaisong, A.*, 2022. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. The 11th International Conference on Environmental Engineering, Science and Management. Bangkok, Thailand. pp. 333-340.

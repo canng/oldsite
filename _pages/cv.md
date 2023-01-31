@@ -36,13 +36,13 @@ redirect_from:
 
 ## Research Experiences
 
-### Sep 2022 – Present: Postdoctoral researcher 
+### Sep 2022 – Present: Researcher 
 * Prince of Songkhla University (PSU - Hatyai campus) 
 * Space Technology Research Center, Geo-Informatics & Space Technology Development Agency (GISTDA), Thailand
 
 ### Aug 2019 – Aug 2022: Research Assistant (RA) 
 * AGAR Lab, JGSEE, KMUTT, Thailand (under supervision of Dr. Amnat Chidthaisong & Dr. Pariwate Varnakovida)
-* Duty: Earth observation & Geospatial Data Analysis
+* Duties: Earth observation & Geospatial Data Analysis
 
 ### Mar 2016 – Jul 2019: Research & Teaching Assistant (RA/TA)
 * Land Resources Dept., College of Environment and Natural Resources, Can Tho University, Vietnam 
@@ -50,6 +50,6 @@ redirect_from:
 
 ### Dec 2017 – May 2018: Visiting Researcher
 * KMUTT Geospatial Engineering and Innovation Center (KGEO), Thailand 
-* Duty: Remotely sensed Data Processing, Geospatial Data Analysis 
+* Duties: Remotely sensed Data Processing, Geospatial Data Analysis 
  
 <hr>
