@@ -25,6 +25,7 @@ author_profile: true
 * <a href="https://www.mdpi.com/journal/remotesensing">Remote Sensing</a>
 * <a href="https://www.mdpi.com/journal/sustainability">Sustainability</a>
 * <a href="https://www.mdpi.com/journal/atmosphere">Atmosphere</a>
+* <a href="https://www.mdpi.com/journal/agriculture">Agriculture</a>
 * <a href="https://www.mdpi.com/journal/sensors">Sensors</a>
 
 ### IOP
