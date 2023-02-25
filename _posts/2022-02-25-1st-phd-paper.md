@@ -1,5 +1,6 @@
 ---
 title:  "My first achievement"
+layout: post
 date:   2022-02-25 00:00:00
 author: Can Nguyen
 categories: publication

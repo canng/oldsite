@@ -1,5 +1,6 @@
 ---
 title:  "Complete training on Bioclimatic Architecture: Principle and Best practices"
+layout: post
 date:   2022-06-21 00:00:00
 author: Can Nguyen
 categories: others

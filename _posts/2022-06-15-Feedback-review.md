@@ -1,5 +1,6 @@
 ---
 title:  "Reviewer report feedback for Environmental Research Letters"
+layout: post
 date:   2022-06-15 00:00:00
 author: Can Nguyen
 categories: review

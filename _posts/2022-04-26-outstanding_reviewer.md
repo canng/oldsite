@@ -1,5 +1,6 @@
 ---
 title:  "2021 Outstanding Reviewer Awards"
+layout: post
 date:   2022-04-26 00:00:00
 author: Can Nguyen
 categories: review

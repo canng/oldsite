@@ -1,5 +1,6 @@
 ---
 title:  "Successfully defended the Ph.D. dissertation"
+layout: post
 date:   2022-07-24 00:00:00
 author: Can Nguyen
 categories: others

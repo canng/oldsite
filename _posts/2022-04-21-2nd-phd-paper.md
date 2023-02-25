@@ -1,5 +1,6 @@
 ---
 title:  "My second Ph.D. paper"
+layout: post
 date:   2022-04-21 00:00:00
 author: Can Nguyen
 categories: publication
