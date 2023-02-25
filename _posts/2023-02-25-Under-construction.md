@@ -5,7 +5,6 @@ author: Can T.N.
 categories:
 - news
 image: assets/images/Under_construction.png
-hidden: true
 comments: false
 ---
 
