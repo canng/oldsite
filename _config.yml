@@ -1,6 +1,6 @@
 # Site
 name: "Can Trong Nguyen"
-title: "Can T. N."
+title: "Can T.N."
 description: "Researcher, Environmental Geography & Geoinformatics"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -15,9 +15,9 @@ permalink: '/:title/'
 # Authors
 authors:
   sal:
-    name: Can T. Nguyen
+    name: Can T.N.
     display_name: Can T.N.
-    gravatar: 69bfba362c993c163b38b0c09c529797
+    gravatar: 'assets/images/Profile.png'
     email: trongcan.ng@gmail.com
     web: https://canng.github.io/
     twitter: https://twitter.com/canntrg
