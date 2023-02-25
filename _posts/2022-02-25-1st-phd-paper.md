@@ -1,20 +1,19 @@
 ---
-title:  "My first achievement"
+title: "My first achievement"
 layout: post
-date:   2022-02-25 00:00:00
-author: Can Nguyen
-categories: publication
-tags: 
-    - publication
+author: Can T.N.
+categories:
+- publication
+image: assets/images/2022/2022-02-25.png
+featured: true
+hidden: true
+comments: false
 ---
 
 After one year of publication, my first Ph.D. paper has reached the 2nd most downloaded paper 
 It's glad to know that my research is of interest to readership
 
 <b>A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8</b>
-
-<br>
-<img src="/assets/images/2022/2022-02-25.png" width="552" height="474"/>
 
 
 ## Abstract
