@@ -1,14 +1,10 @@
 ---
-permalink: /
-title: "Can Trong  Nguyen"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: page
+title: Can T. Nguyen
+permalink: /about
+#comments: true
 ---
-
-<hr>
+<img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="height: 350px"/>
 
 Can Trong Nguyen is a junior scientist. He is currently working as a researcher for a joint project between [Prince of Songkla University (Hatyai campus)](https://en.psu.ac.th/) and Geo-Informatics and Space Technology Development Agency [(GISTDA, Public Orgainization)](https://www.gistda.or.th/home.php?lang=EN), under the framework of [FUTURE EARTH THAILAND](https://www.futureearththailand.org/frontpage). 
 
