@@ -1,7 +1,6 @@
 ---
 title: Urbanization & Urban microclimate
 layout: post
-author: Can T.N.
 categories:
 - research
 image: assets/images/2022/2022-07-24-02.png
