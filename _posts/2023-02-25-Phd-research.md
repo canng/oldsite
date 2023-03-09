@@ -22,11 +22,13 @@ comments: false
 
 <b> Outputs </b>
 
-* Nguyen, C.T., Chidthaisong, A., Kieu Diem, P., and Huo, L.-Z. (2021) A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8. LAND. 10(3):231. https://doi.org/10.3390/land10030231 
+* Nguyen, C.T., Chidthaisong, A., Kieu Diem, P., and Huo, L.-Z. (2021) A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8. LAND. 10(3):231. [https://doi.org/10.3390/land10030231](https://doi.org/10.3390/land10030231) 
 
-* Nguyen, C.T., Chidthaisong, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P.K. and Diep, N.T.H. (2022). How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society. 82, p.103882. https://doi.org/10.1016/j.scs.2022.103882  
+* Nguyen, C.T., Chidthaisong, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P.K. and Diep, N.T.H. (2022). How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society. 82, p.103882. [https://doi.org/10.1016/j.scs.2022.103882](https://doi.org/10.1016/j.scs.2022.103882)
 
 * Nguyen, C.T., and Chidthaisong, A. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. In The 11th International Conference on Environmental Engineering, Science and Management. 12-13 May 2022. 
+
+* Nguyen, C. T.*, and Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.
 
 
 
