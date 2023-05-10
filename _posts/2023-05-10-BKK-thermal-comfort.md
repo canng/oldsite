@@ -1,5 +1,5 @@
 ---
-title: Outdoor Thermal Comfort in The Bangkok Metropolitan Area (BMA)
+title: Outdoor Thermal Comfort 
 layout: post
 categories:
 - research
@@ -8,6 +8,8 @@ featured: true
 hidden: true
 comments: false
 ---
+
+## Outdoor Thermal Comfort in The Bangkok Metropolitan Area (BMA)
 
 
 This year, 2023, we are facing the extremely hot entire Thailand. 
