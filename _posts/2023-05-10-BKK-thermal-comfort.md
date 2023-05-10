@@ -12,7 +12,7 @@ comments: false
 ## Outdoor Thermal Comfort in The Bangkok Metropolitan Area (BMA)
 
 
-This year, 2023, we are facing the extremely hot entire Thailand. 
+This year, 2023, we are facing the extremely hot espisode entire Thailand. 
 The new record in terms of the highest temperature has been set.
 
 Our study used remote sensing based indices and auxiliary data from both physical and non-physical features to depict outdoor thermal comfort in the BMA. 
