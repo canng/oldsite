@@ -11,6 +11,10 @@ permalink: /publications
 
 <ol reversed>
 
+<h5> 2023 </h5>
+<li> Nguyen, C. T.*, Chidthaisong, A., Kaewthongrach R., & Marome W., 2023. Urban Thermal Environment under Urban Expansion and Climate Change: A regional Perspective from Southeast Asian Big Cities. Book Chapter in <a href="https://link.springer.com/book/9789819936748">Climate Change and Cooling Cities</a>. Urban Sustainability Book Series, <a href="https://www.springer.com/series/16930"> Springer</a> <i>(editing)</i></li>
+
+
 <h5> 2022 </h5> 
 <li>Diep, N.T.H., Loc, H.H., <b>Nguyen, C.T.</b>, Park, E., & Thanh, T., 2022. Spatial-social evaluations of ecosystem services of adaptive aquaculture models using SAR and multivariate analyses: a case in the Vietnamese Mekong Delta. Environmental Monitoring and Assessment, 194(778). <a href="https://link.springer.com/article/10.1007/s10661-022-10182-w"> 10.1007/s10661-022-10182-w</a></li> 
 
