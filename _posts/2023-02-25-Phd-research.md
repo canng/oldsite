@@ -28,7 +28,9 @@ comments: false
 
 * Nguyen, C.T., and Chidthaisong, A. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. In The 11th International Conference on Environmental Engineering, Science and Management. 12-13 May 2022. 
 
-* Nguyen, C. T.*, and Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.
+* Nguyen, C. T.*, Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.
+
+* Nguyen, C. T.*, Chidthaisong, A., Kaewthongrach R., & Marome W., 2023. Urban Thermal Environment under Urban Expansion and Climate Change: A regional Perspective from Southeast Asian Big Cities. Book Chapter in [Climate Change and Cooling Cities](https://link.springer.com/book/9789819936748). Urban Sustainability Book Series, [Springer](https://www.springer.com/series/16930) <i>(editing)</i>
 
 
 
