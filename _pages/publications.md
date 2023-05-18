@@ -12,7 +12,7 @@ permalink: /publications
 <ol reversed>
 
 <h5> 2023 </h5>
-<li> Nguyen, C. T.*, Chidthaisong, A., Kaewthongrach R., & Marome W., 2023. Urban Thermal Environment under Urban Expansion and Climate Change: A regional Perspective from Southeast Asian Big Cities. Book Chapter in <a href="https://link.springer.com/book/9789819936748">Climate Change and Cooling Cities</a>. Urban Sustainability Book Series, <a href="https://www.springer.com/series/16930"> Springer</a> <i>(editing)</i></li>
+<li> <b>Nguyen, C. T.*</b>, Chidthaisong, A., Kaewthongrach R., & Marome W., 2023. Urban Thermal Environment under Urban Expansion and Climate Change: A regional Perspective from Southeast Asian Big Cities. Book Chapter in <a href="https://link.springer.com/book/9789819936748">Climate Change and Cooling Cities</a>. Urban Sustainability Book Series, <a href="https://www.springer.com/series/16930"> Springer</a> <i>(editing)</i></li>
 
 
 <h5> 2022 </h5> 
