@@ -38,8 +38,8 @@ permalink: /cv
 
 #### Research Experiences
 
-##### Sep 2022 – Present: Researcher 
-* Prince of Songkhla University (PSU - Hatyai campus) 
+##### Aug 2022 – Aug 2023: Researcher 
+* Prince of Songkhla University (PSU - Hatyai campus)
 * Space Technology Research Center, Geo-Informatics & Space Technology Development Agency (GISTDA), Thailand
 
 ##### Aug 2019 – Aug 2022: Research Assistant (RA) 
