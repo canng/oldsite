@@ -12,7 +12,7 @@ permalink: /publications
 <ol reversed>
 
 <h5> 2023 </h5>
-<li><b>Nguyen, C. T.*</b>, Kaewthongrach, R., Channumsin, S., Chongcheawchamnan, M., Phan, T.-N., & Niammuad, D., 2023. A regional assessment of ecological environment quality in Thailand special economic zone: Spatial heterogeneous influences and future prediction. Land Degradation & Development, 1–18. <a href="https://doi.org/10.1002/ldr.4876"> 10.1002/ldr.4876</a></li> 
+<li><b>Nguyen, C. T.*</b>, Kaewthongrach, R., Channumsin, S., Chongcheawchamnan, M., Phan, T.-N., & Niammuad, D., 2023. A regional assessment of ecological environment quality in Thailand special economic zone: Spatial heterogeneous influences and future prediction. Land Degradation & Development, 1–18. <a href="https://doi.org/10.1002/ldr.4876"> 10.1002/ldr.4876</a></li>  <i> Read more [here](./assets/images/2023/2023_01_23_EEC_Ecological_Environment_canng_ldr.4876.pdf) </i>
 
 <li> <b>Nguyen, C. T.*</b>, Chidthaisong, A., Kaewthongrach R., & Marome W., 2023. Urban Thermal Environment under Urban Expansion and Climate Change: A regional Perspective from Southeast Asian Big Cities. Book Chapter in <a href="https://link.springer.com/book/9789819936748">Climate Change and Cooling Cities</a>. Urban Sustainability Book Series, <a href="https://www.springer.com/series/16930"> Springer</a> <i>(editing)</i></li>
 
