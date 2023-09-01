@@ -50,7 +50,6 @@ permalink: /publications
 <h5> 2017 </h5> 
 <li> Loc, H.H., Diep, N.T.H., <b>Can, N.T.</b>, Irvine, K.N., Shimizu, Y., 2017. Integrated evaluation of Ecosystem Services in Prawn-Rice rotational crops, Vietnam. Ecosyst. Serv. 26, 377–387. <a href="https://doi.org/10.1016/j.ecoser.2016.04.007"> 10.1016/j.ecoser.2016.04.007</a> </li> 
 
-</ol>
 <hr>
   
 #### Book chapter
@@ -61,7 +60,7 @@ permalink: /publications
 
 <li>Diem, P.K., Diem, N.K., <b>Nguyen, C.T.</b>, Diep, N.T.H., 2023. Urbanisation and Urban Heat Island in a Mekong Delta City: From Monitoring to Dominant Factors. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_13">10.1007/978-981-99-3675-5_13</a>
 
-</ol>
+
 <hr>
 
 
