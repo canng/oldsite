@@ -14,8 +14,6 @@ permalink: /publications
 <h5> 2023 </h5>
 <li><b>Nguyen, C. T.*</b>, Kaewthongrach, R., Channumsin, S., Chongcheawchamnan, M., Phan, T.-N., & Niammuad, D., 2023. A regional assessment of ecological environment quality in Thailand special economic zone: Spatial heterogeneous influences and future prediction. Land Degradation & Development, 1–18. <a href="https://doi.org/10.1002/ldr.4876"> 10.1002/ldr.4876</a></li>  
 
-<li> <b>Nguyen, C. T.*</b>, Chidthaisong, A., Kaewthongrach R., & Marome W., 2023. Urban Thermal Environment under Urban Expansion and Climate Change: A regional Perspective from Southeast Asian Big Cities. Book Chapter in <a href="https://link.springer.com/book/9789819936748">Climate Change and Cooling Cities</a>. Urban Sustainability Book Series, <a href="https://www.springer.com/series/16930"> Springer</a> <i>(editing)</i></li>
-
 
 <h5> 2022 </h5> 
 <li>Diep, N.T.H., Loc, H.H., <b>Nguyen, C.T.</b>, Park, E., & Thanh, T., 2022. Spatial-social evaluations of ecosystem services of adaptive aquaculture models using SAR and multivariate analyses: a case in the Vietnamese Mekong Delta. Environmental Monitoring and Assessment, 194(778). <a href="https://link.springer.com/article/10.1007/s10661-022-10182-w"> 10.1007/s10661-022-10182-w</a></li> 
@@ -54,6 +52,12 @@ permalink: /publications
 
 </ol>
 <hr>
+
+#### Book chapter
+
+<ol reversed>
+
+<li><b>Nguyen, C.T.*</b>, Chidthaisong, A., Kaewthongrach, R., Marome, W. (2023). Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a>
 
 #### Conference presentations
 
