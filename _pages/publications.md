@@ -61,7 +61,6 @@ permalink: /publications
 
 <li>Diem, P.K., Diem, N.K., <b>Nguyen, C.T.</b>, Diep, N.T.H., 2023. Urbanisation and Urban Heat Island in a Mekong Delta City: From Monitoring to Dominant Factors. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_13">10.1007/978-981-99-3675-5_13</a>
 
-
 </ol>
 <hr>
 
@@ -69,7 +68,6 @@ permalink: /publications
 
 <ol reversed>
 
-<h5>  2022 </h5> 
 <li><b>Nguyen, C. T.</b>, Chayawatto N.*, Kubaha K., Chidthaisong A., Varnakovida P., Aregarot P., 2022. Effects of increasing green areas on campus microclimate using InVEST urban cooling model. The 8th International Conference on Sustainable Energy and Environment (SEE). Bangkok, Thailand (7-9/11/2022).
 
 <li>Nguyen, D. K., Phan, D. K., <b>Nguyen, C.T.</b>, Kaewthongrach, R., Channumsin, S., Chongcheawchamnan M., 2022. Variations of urban heat island in a coastal city of Hat Yai, Thailand. The 8th International Conference on Sustainable Energy and Environment (SEE). Bangkok, Thailand (7-9/11/2022).
@@ -78,24 +76,13 @@ permalink: /publications
 
 <li> <b>Nguyen, C. T.</b>, and Chidthaisong, A.*, 2022. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. The 11th International Conference on Environmental Engineering, Science and Management. Bangkok, Thailand. pp. 333-340.
 
-
-<h5>  2019 - 2021 </h5> 
-<i>[COVID-19 prevented attending scientific conferences within this period]</i>
-
-
-<h5>  2018 </h5> 
 <li> Diep, N.T.H., Loi, N.T., <b>Can, N.T.</b>, 2018. Monitoring erosion and accretion situation in the coastal zone at Kien Giang province, in: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, GeoInformation For Disaster Management (Gi4DM). Istanbul, Turkey, pp. 197–203. <i>(Conference).</i><a href="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W4/197/2018/"> Link</a></li> 
 
 <li>Diep, N. T. H., Chi, X. D., and <b>Can, N. T.</b>, 2018. Developing an application on land use planning information in Gia Rai district, Bac Lieu province. GeoInformatics for Spatial-Infrastructure Development in Earth & Allied Sciences (GIS-IDEAS), 342–352.</li>
 
-
-<h5>  2017 </h5> 
 <li><b>Nguyen, C. T.</b>, Nguyen, D. T. H., Chi, T. B., & Ho, H. L., 2017. Ecosystem services valuation and economic approaches for intensive shrimp assessment in Kien Luong district, Kien Giang province. The International Scientific Workshop on “Scientific Research for Training Assignment”. Kien Giang, Vietnam. pp. 14–22.</li>
 
-
-<h5>  2016 </h5> 
 <li><b>Can, N. T.</b>, Diep, N. T. H., & Loc, H. H., 2016. Exploratory Assessment of Prawn-Rice Rotational Crops Spatial Distribution and Ecosystem Services Values. The 37th Asian Conference on Remote Sensing. Sri Lanka. </li>
 
 <hr>
-
 
