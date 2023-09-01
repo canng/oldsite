@@ -50,31 +50,32 @@ permalink: /publications
 <h5> 2017 </h5> 
 <li> Loc, H.H., Diep, N.T.H., <b>Can, N.T.</b>, Irvine, K.N., Shimizu, Y., 2017. Integrated evaluation of Ecosystem Services in Prawn-Rice rotational crops, Vietnam. Ecosyst. Serv. 26, 377–387. <a href="https://doi.org/10.1016/j.ecoser.2016.04.007"> 10.1016/j.ecoser.2016.04.007</a> </li> 
 
+</ol>
 <hr>
   
-#### Book chapter
+<h3>Book chapter</h3>
 
 <ol reversed>
 
-<li><b>Nguyen, C.T.*</b>, Chidthaisong, A., Kaewthongrach, R., Marome, W. , 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a>
+<li><b>Nguyen, C.T.*</b>, Chidthaisong, A., Kaewthongrach, R., Marome, W. , 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a></li> 
 
-<li>Diem, P.K., Diem, N.K., <b>Nguyen, C.T.</b>, Diep, N.T.H., 2023. Urbanisation and Urban Heat Island in a Mekong Delta City: From Monitoring to Dominant Factors. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_13">10.1007/978-981-99-3675-5_13</a>
+<li>Diem, P.K., Diem, N.K., <b>Nguyen, C.T.</b>, Diep, N.T.H., 2023. Urbanisation and Urban Heat Island in a Mekong Delta City: From Monitoring to Dominant Factors. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_13">10.1007/978-981-99-3675-5_13</a></li> 
 
-
+</ol>
 <hr>
 
 
-#### Conference presentations
+<h3>Conference presentations</h3>
 
 <ol reversed>
 
-<li><b>Nguyen, C. T.</b>, Chayawatto N.*, Kubaha K., Chidthaisong A., Varnakovida P., Aregarot P., 2022. Effects of increasing green areas on campus microclimate using InVEST urban cooling model. The 8th International Conference on Sustainable Energy and Environment (SEE). Bangkok, Thailand (7-9/11/2022).
+<li><b>Nguyen, C. T.</b>, Chayawatto N.*, Kubaha K., Chidthaisong A., Varnakovida P., Aregarot P., 2022. Effects of increasing green areas on campus microclimate using InVEST urban cooling model. The 8th International Conference on Sustainable Energy and Environment (SEE). Bangkok, Thailand (7-9/11/2022).</li> 
 
-<li>Nguyen, D. K., Phan, D. K., <b>Nguyen, C.T.</b>, Kaewthongrach, R., Channumsin, S., Chongcheawchamnan M., 2022. Variations of urban heat island in a coastal city of Hat Yai, Thailand. The 8th International Conference on Sustainable Energy and Environment (SEE). Bangkok, Thailand (7-9/11/2022).
+<li>Nguyen, D. K., Phan, D. K., <b>Nguyen, C.T.</b>, Kaewthongrach, R., Channumsin, S., Chongcheawchamnan M., 2022. Variations of urban heat island in a coastal city of Hat Yai, Thailand. The 8th International Conference on Sustainable Energy and Environment (SEE). Bangkok, Thailand (7-9/11/2022).</li> 
 
-<li> <b>Nguyen, C. T.*</b>, and Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.
+<li> <b>Nguyen, C. T.*</b>, and Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.</li> 
 
-<li> <b>Nguyen, C. T.</b>, and Chidthaisong, A.*, 2022. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. The 11th International Conference on Environmental Engineering, Science and Management. Bangkok, Thailand. pp. 333-340.
+<li> <b>Nguyen, C. T.</b>, and Chidthaisong, A.*, 2022. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. The 11th International Conference on Environmental Engineering, Science and Management. Bangkok, Thailand. pp. 333-340.</li> 
 
 <li> Diep, N.T.H., Loi, N.T., <b>Can, N.T.</b>, 2018. Monitoring erosion and accretion situation in the coastal zone at Kien Giang province, in: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, GeoInformation For Disaster Management (Gi4DM). Istanbul, Turkey, pp. 197–203. <i>(Conference).</i><a href="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W4/197/2018/"> Link</a></li> 
 
