@@ -86,4 +86,4 @@ permalink: /publications
 <li><b>Can, N. T.</b>, Diep, N. T. H., & Loc, H. H., 2016. Exploratory Assessment of Prawn-Rice Rotational Crops Spatial Distribution and Ecosystem Services Values. The 37th Asian Conference on Remote Sensing. Sri Lanka. </li>
 
 <hr>
-
+</ol>
