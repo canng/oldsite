@@ -57,7 +57,13 @@ permalink: /publications
 
 <ol reversed>
 
-<li><b>Nguyen, C.T.*</b>, Chidthaisong, A., Kaewthongrach, R., Marome, W. (2023). Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a>
+<li><b>Nguyen, C.T.*</b>, Chidthaisong, A., Kaewthongrach, R., Marome, W. , 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a>
+
+<li>Diem, P.K., Diem, N.K., <b>Nguyen, C.T.</b>, Diep, N.T.H., 2023. Urbanisation and Urban Heat Island in a Mekong Delta City: From Monitoring to Dominant Factors. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_13">10.1007/978-981-99-3675-5_13</a>
+
+
+</ol>
+<hr>
 
 #### Conference presentations
 
