@@ -52,7 +52,7 @@ permalink: /publications
 
 </ol>
 <hr>
-
+  
 #### Book chapter
 
 <ol reversed>
