@@ -30,7 +30,7 @@ comments: false
 
 * Nguyen, C. T.*, Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.
 
-* Nguyen, C.T.*, Chidthaisong, A., Kaewthongrach, R., Marome, W. , 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. [https://doi.org/10.1007/978-981-99-3675-5_9](10.1007/978-981-99-3675-5_9)
+* Nguyen, C. T.*, Chidthaisong, A., Kaewthongrach, R., Marome, W. , 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. [https://doi.org/10.1007/978-981-99-3675-5_9](10.1007/978-981-99-3675-5_9)
 
 
 
