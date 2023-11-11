@@ -27,5 +27,5 @@ Rising importance of Urban Heat Island (UHI) research, driven by concerns about 
 <img src="{{site.baseurl}}/assets/images//2023/2023_11_11_review_uhi_01.jpg" alt="UHI Review" style="width: 750px"/>
 
 
-
+Diem, P. K., <b>Nguyen, C. T.*</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2023. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 101081 (In Press) <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a>
 
