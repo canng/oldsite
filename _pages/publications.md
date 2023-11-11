@@ -12,6 +12,8 @@ permalink: /publications
 <ol reversed>
 
 <h5> 2023 </h5>
+<li> Diem, P. K., <b>Nguyen, C. T.*</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2023. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 101081 (In Press) <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a> </li>
+
 <li><b>Nguyen, C. T.*</b>, Kaewthongrach, R., Channumsin, S., Chongcheawchamnan, M., Phan, T.-N., & Niammuad, D., 2023. A regional assessment of ecological environment quality in Thailand special economic zone: Spatial heterogeneous influences and future prediction. Land Degradation & Development, 1–18. <a href="https://doi.org/10.1002/ldr.4876"> 10.1002/ldr.4876</a></li>  
 
 
