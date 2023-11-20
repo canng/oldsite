@@ -24,15 +24,15 @@ comments: false
 
 <ol reversed>
 
-<li> Nguyen, C.T., Chidthaisong, A., Kieu Diem, P., and Huo, L.-Z. (2021) A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8. LAND. 10(3):231. [1]() <a href="https://doi.org/10.3390/land10030231">10.3390/land10030231</a></li> 
+<li> Nguyen, C. T.*, Chidthaisong, A., Kaewthongrach, R., Marome, W. , 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore.<a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a></li> 
 
-<li> Nguyen, C.T., Chidthaisong, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P.K. and Diep, N.T.H. (2022). How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society. 82, p.103882 <a href="https://doi.org/10.1016/j.scs.2022.103882">10.1016/j.scs.2022.103882</a></li> 
+<li> Nguyen, C.T.*, Chidthaisong, A.*, Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P.K. and Diep, N.T.H. (2022). How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society. 82, p.103882 <a href="https://doi.org/10.1016/j.scs.2022.103882">10.1016/j.scs.2022.103882</a></li> 
+
+<li> Nguyen, C.T., Chidthaisong, A., Kieu Diem, P., and Huo, L.-Z. (2021) A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8. LAND. 10(3):231. [1]() <a href="https://doi.org/10.3390/land10030231">10.3390/land10030231</a></li> 
 
 <li> Nguyen, C.T., and Chidthaisong, A. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. In The 11th International Conference on Environmental Engineering, Science and Management. 12-13 May 2022. <a href="https://www.researchgate.net/publication/360643155_Urban_Green_Space_Inventory_using_Different_Spatial_Resolution_Satellite_Images_Practical_notes_in_Bangkok"> Link</a></li> 
 
 <li> Nguyen, C. T.*, Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.<a href="https://www.researchgate.net/publication/364621859_Assessment_of_Cooling_Capacity_by_Urban_Parks_Using_a_Multi-data_Source_Approach"> Link</a></li> 
-
-<li> Nguyen, C. T.*, Chidthaisong, A., Kaewthongrach, R., Marome, W. , 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore.<a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a></li> 
 
 </ol>
 
