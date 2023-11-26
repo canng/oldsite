@@ -37,7 +37,7 @@ permalink: /story
 
 <img src="{{site.baseurl}}/assets/images/01_story_photo/2022_01.png" alt="" style="width: 750px"/>
 
-<i>Join theJoint Graduate School of Energy and Environment (JGSEE) and KMUTT Geospatial Engineering and InnOvation Center (KGEO) teams to organize the WATER EXPO conference</i>
+<i>Join the Joint Graduate School of Energy and Environment (JGSEE) and KMUTT Geospatial Engineering and InnOvation Center (KGEO) teams to organize the WATER EXPO conference</i>
 
 <br>
 
