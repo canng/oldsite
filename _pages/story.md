@@ -13,15 +13,15 @@ permalink: /story
 
 <i>Thailand New Year (Songkran Festival) with students and staffs from Sirindhorn Center for Geo-Informatics (2023)</i>
 
-<img src="{{site.baseurl}}/assets/images/01_story_photo/2022_04.jpg" alt="" style="width: 750px"/>
+<img src="{{site.baseurl}}/assets/images/01_story_photo/2022_04.png" alt="" style="width: 750px"/>
 
 <i>Working with Local Authorities, Lampang Rajabhat University and Stakeholders in Lampang, Thailand discussing on Space Technologies for Drought and Flood Mitigation (2022)</i>
 
-<img src="{{site.baseurl}}/assets/images/01_story_photo/2022_03.jpg" alt="" style="width: 750px"/>
+<img src="{{site.baseurl}}/assets/images/01_story_photo/2022_03.png" alt="" style="width: 750px"/>
 
 <i>Hang out with international friends during study period at King Mongkut's University of Technology Thonburi, Thailand (2020)</i>
 
-<img src="{{site.baseurl}}/assets/images/01_story_photo/2022_02.jpg" alt="" style="width: 750px"/>
+<img src="{{site.baseurl}}/assets/images/01_story_photo/2022_02.png" alt="" style="width: 750px"/>
 
 <i>Short course about GeoS4S - geotechnology for sustainability, in Nanjing, China (2018)</i>
 
