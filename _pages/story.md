@@ -34,6 +34,7 @@ permalink: /story
 <i>Team building with KGEO team at Khao Yai (Nakhon Ratchasima) Thailand (2017)</i>
 
 <img src="{{site.baseurl}}/assets/images/01_story_photo/2019_01.jpg" alt="" style="width: 750px"/>
+
 <i>()</i>
 
 <img src="{{site.baseurl}}/assets/images/01_story_photo/2018_03.jpg" alt="" style="width: 750px"/>
