@@ -47,7 +47,7 @@ permalink: /story
 
 <br>
 
-<img src="{{site.baseurl}}/assets/images/01_story_photo/2019_01.jpg" alt="" style="width: 750px"/>
+<img src="{{site.baseurl}}/assets/images/01_story_photo/2019_01.png" alt="" style="width: 750px"/>
 
 <i>International training at Songkla University (Phuket campus) on Land use and land cover for coastal areas by NASA</i>
 
