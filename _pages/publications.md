@@ -12,10 +12,9 @@ permalink: /publications
 <ol reversed>
 
 <h5> 2023 </h5>
-<li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2023. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment (In Press) <a href="">Link</a></li>
+<li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2023. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment.<a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a></li>
 
 <li>Diem, P.K., Diem, N.K., <b>Nguyen, C.T.</b>, Minh  V.Q., 2023. Impacts of extreme drought on rice planting calendar in Vietnamese Mekong Delta. Paddy and Water Environment. <a href="https://doi.org/10.1007/s10333-023-00958-2">10.1007/s10333-023-00958-2</a></li>
-
 
 <li> Diem, P. K., <b>Nguyen, C. T.*</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2023. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 33(January 2024), 101081 <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a> </li>
 

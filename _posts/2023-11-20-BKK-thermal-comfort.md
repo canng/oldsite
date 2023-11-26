@@ -19,7 +19,8 @@ Our study used remote sensing based indices and auxiliary data from both physica
 
 The specific figures related to impervious ratio, building density, building height, vegetation and water surfaces, etc. were proposed as the considered standards for urban planning to minimize outdoor thermal discomfort.
 
+<br>
+<b> Outputs </b>
 
-
-
+<b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2023. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a> (Q1, IF 4.7, Scopus, ESCI, 2022)
 
