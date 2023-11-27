@@ -28,7 +28,7 @@ permalink: /story
 <i>International stakeholders discussion at Thammasat University, Bangkok (Thailand) about Urbanization</i>
 
 <br>
-
+  
 <img src="{{site.baseurl}}/assets/images/01_story_photo/2022_02.png" alt="" style="width: 750px"/>
 
 <i>Visit Srinakharinwirot University (Bangkok) and Discuss about potential cooperation with Can Tho University</i>
