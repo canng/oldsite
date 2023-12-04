@@ -7,9 +7,7 @@ permalink: /cv
 
 <hr>
 
-<< My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> [here]</a>>>
-
-<< At the same time, My Failure CV can be found here <a href="https://docs.google.com/document/d/1KKFG0R_GdvoihzwFyTeQ7WHtc6dxCbxG/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> [here]</a>>>
+My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> [here]</a> - (At the same time, My Failure CV can be found here <a href="https://docs.google.com/document/d/1KKFG0R_GdvoihzwFyTeQ7WHtc6dxCbxG/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> [here]</a>)
 
 <hr>
 
@@ -74,5 +72,5 @@ He received B.Eng. and M.Sc. in Land Management from Can Tho University [(CTU)](
 
 
 
- 
+
 <hr>
