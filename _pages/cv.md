@@ -5,6 +5,14 @@ permalink: /cv
 #comments: true
 ---
 
+<hr>
+
+<< My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> [here]</a>>>
+
+<< At the same time, My Failure CV can be found here <a href="https://docs.google.com/document/d/1KKFG0R_GdvoihzwFyTeQ7WHtc6dxCbxG/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> [here]</a>>>
+
+<hr>
+
 <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="height: 350px"/>
 
 Can Trong Nguyen is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, [Charles University Environment Centre](https://czp.cuni.cz/en/) (Prague, Czech Republic) under the project of ["Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027)"](https://czp.cuni.cz/en/projects/pathways-towards-environmental-sustainability-gacr-expro-2023-2027) with [Dr. Jan Weinzettel](https://czp.cuni.cz/en/about-us/staff/jan-weinzettel). 
@@ -17,12 +25,6 @@ He received B.Eng. and M.Sc. in Land Management from Can Tho University [(CTU)](
 
 <i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics to address different environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i>
  
-<hr>
-
-<< My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> [here]</a>>>
-
-<< At the same time, My Failure CV can be found here <a href="https://docs.google.com/document/d/1KKFG0R_GdvoihzwFyTeQ7WHtc6dxCbxG/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> [here]</a>>>
-
 <hr>
 
 #### Research Interests
@@ -68,5 +70,9 @@ He received B.Eng. and M.Sc. in Land Management from Can Tho University [(CTU)](
 ##### Dec 2017 – May 2018: Visiting Researcher
 * KMUTT Geospatial Engineering and Innovation Center (KGEO), Thailand 
 * Duties: Remotely sensed Data Processing, Geospatial Data Analysis 
+ 
+
+
+
  
 <hr>
