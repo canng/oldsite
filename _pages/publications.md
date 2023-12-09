@@ -14,11 +14,11 @@ permalink: /publications
 <h5> 2024 </h5>
 <li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf"> (Download PDF)</a></li> 
 
+<li> Diem, P. K., <b>Nguyen, C. T.*</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2024. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 33(January 2024), 101081 <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101081_review_uhi.pdf"> (Download PDF)</a></li>
+
 
 <h5> 2023 </h5>
 <li>Diem, P.K., Diem, N.K., <b>Nguyen, C.T.</b>, Minh  V.Q., 2023. Impacts of extreme drought on rice planting calendar in Vietnamese Mekong Delta. Paddy and Water Environment. <a href="https://doi.org/10.1007/s10333-023-00958-2">10.1007/s10333-023-00958-2</a><a href="https://canng.github.io/assets/Article_archive/2023_PAWE_drought_rice_calendar.pdf"> (Download PDF)</a></li>
-
-<li> Diem, P. K., <b>Nguyen, C. T.*</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2023. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 33(January 2024), 101081 <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101081_review_uhi.pdf"> (Download PDF)</a></li>
 
 <li><b>Nguyen, C. T.*</b>, Kaewthongrach, R., Channumsin, S., Chongcheawchamnan, M., Phan, T.-N., & Niammuad, D., 2023. A regional assessment of ecological environment quality in Thailand special economic zone: Spatial heterogeneous influences and future prediction. Land Degradation & Development, 1–18. <a href="https://doi.org/10.1002/ldr.4876"> 10.1002/ldr.4876</a><a href="https://canng.github.io/assets/Article_archive/2023_ldr_4876_ecological_environment_eec.pdf"> (Download PDF)</a></li>  
 
