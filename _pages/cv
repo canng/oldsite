@@ -1,9 +1,8 @@
 ---
-title: Curriculum Vitae
 layout: post
-featured: false
-hidden: true
-comments: false
+title: Curriculum Vitae
+permalink: /cv
+#comments: true
 ---
 
 <hr>
