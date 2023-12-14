@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Curriculum Vitae
 permalink: /cv
 #comments: true

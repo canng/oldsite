@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Peer Review
 permalink: /review
 #comments: true
