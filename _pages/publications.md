@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Selected peer-reviewed arcticles
 permalink: /publications
 #comments: true

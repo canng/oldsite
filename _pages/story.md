@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Story
 permalink: /story
 #comments: true
