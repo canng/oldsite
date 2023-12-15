@@ -26,13 +26,14 @@ He received B.Eng. and M.Sc. in Land Management from Can Tho University [(CTU)](
 <hr>
 
 #### Research Interests
+
 * Environmental Geography 
+* Land Change Science 
+* Environment Management 
 * Urban Microclimate 
 * Urban Environmental Management & Planning 
-* Geoinformatics 
-* RS and GIS-related Applications 
 * Ecosystem Services 
-* Coastal farming and Coastal ecosystems 
+* Environmental Sustainability
 
 <hr>
 
