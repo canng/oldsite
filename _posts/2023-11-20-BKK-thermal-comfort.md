@@ -2,7 +2,7 @@
 title: Outdoor Thermal Comfort 
 layout: post
 categories:
-- research
+- Feature research
 image: assets/images/2023/2023_05_10_BMA_OTC.jpg
 featured: true
 hidden: true

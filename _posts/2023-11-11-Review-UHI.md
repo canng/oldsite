@@ -2,7 +2,7 @@
 title: Review Urban Heat Island Research 
 layout: post
 categories:
-- research
+- Feature research
 image: assets/images/2023/2023_11_11_review_uhi_02.jpg
 featured: true
 hidden: true
