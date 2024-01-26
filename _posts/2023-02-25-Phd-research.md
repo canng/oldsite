@@ -26,7 +26,7 @@ comments: false
 
 <li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf"> (PDF)</a></li> 
 
-<li><b>Nguyen, C. T.*</b>, & Chidthaisong A., 2023. Ecosystem Services Provided by Urban Green Spaces in Bangkok Metropolis: Public Awareness and Planning Implications. Urban Ecosystems. <a href="https://doi.org/10.1007/s11252-023-01482-1">10.1007/s11252-023-01482-1</a>"https://canng.github.io/assets/Article_archive/2023_UE_ESS_UGS.pdf"> (PDF)</a></li> 
+<li><b>Nguyen, C. T.*</b>, & Chidthaisong A., 2023. Ecosystem Services Provided by Urban Green Spaces in Bangkok Metropolis: Public Awareness and Planning Implications. Urban Ecosystems. <a href="https://doi.org/10.1007/s11252-023-01482-1">10.1007/s11252-023-01482-1</a><a href="https://canng.github.io/assets/Article_archive/2023_UE_ESS_UGS.pdf"> (PDF)</a></li> 
 
 <li><b>Nguyen, C.T.*</b>, Chidthaisong, A., Kaewthongrach, R., Marome, W. , 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a><a href="https://canng.github.io/assets/Article_archive/2023_chapter_urban_heat_SEA.pdf"> (PDF)</a></li> 
 
