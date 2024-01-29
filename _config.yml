@@ -16,7 +16,7 @@ permalink: '/:title/'
 authors:
   sal:
     name: Can T.N.
-    display_name: Can T.N.
+    display_name: Canng
     gravatar: 'assets/images/Profile.png'
     email: trongcan.ng@gmail.com
     web: https://canng.github.io/
@@ -55,11 +55,11 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
+adsense: "enabled"
 adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

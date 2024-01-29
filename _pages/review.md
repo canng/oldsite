@@ -16,6 +16,7 @@ permalink: /review
 
 #### Springer
 * <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>
+* <a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a>
 
 #### Taylor and Francis
 * <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>
