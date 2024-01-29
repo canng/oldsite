@@ -4,7 +4,7 @@ layout: post
 categories:
 - Feature research
 image: assets/images/2023/2023_11_11_review_uhi_02.jpg
-featured: true
+featured: false
 hidden: true
 comments: false
 ---

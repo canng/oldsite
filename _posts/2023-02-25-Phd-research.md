@@ -4,7 +4,7 @@ layout: post
 categories:
 - Feature research
 image: assets/images/2022/2022-07-24-02.png
-featured: true
+featured: false
 hidden: true
 comments: false
 ---
