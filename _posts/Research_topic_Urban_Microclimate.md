@@ -4,6 +4,9 @@ layout: post
 categories:
 - Feature research
 image: assets/images/2022/2022-07-24-02.png
+featured: false
+hidden: true
+comments: false
 ---
 
 <b>"Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"</b>, which in turn addressed 3 specific objectives: 
