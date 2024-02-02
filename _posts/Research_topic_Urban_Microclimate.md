@@ -9,6 +9,9 @@ hidden: true
 comments: false
 ---
 
+
+## Selected Publications
+
 <ol reversed>
 
 <li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf"> (PDF)</a></li> 
