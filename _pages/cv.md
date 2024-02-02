@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Curriculum Vitae
 permalink: /cv
 #comments: true
@@ -37,22 +37,10 @@ He received B.Eng. and M.Sc. in Land Management from Can Tho University [(CTU)](
 
 <hr>
 
-#### Education  
-##### 2019 – 2022: Ph.D. Environmental Technology
-* Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
-* Dissertation: <i>["Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"](https://www.researchgate.net/project/Assessment-of-Climate-Change-and-Urbanization-Impacts-on-Urban-Surface-Temperature-and-Ecosystem-Services-of-Urban-Green-Spaces)</i>
-
-##### 2017 – 2019: M.Sc. Land Management (GPA: 3.71/4.00) 
-* Can Tho University (CTU), Vietnam
-* Dissertation: <i>["Analysis of Urban Heat Island and Energy Consumption in Bangkok Metropolitan Area using Remote sensing"](https://www.researchgate.net/project/Analysis-of-urban-heat-island-and-energy-consumption-in-Bangkok-Metropolitan-Area-using-remote-sensing)</i> 
-
-##### 2012 – 2016: B.Eng. Land Management (GPA: 3.53/4.00) 
-* Can Tho University (CTU), Vietnam
-* Dissertation: <i>"Studying and Evaluating Ecosystem Service Values of Rice-Shrimp Farming in An Minh district, Kien Giang province" </i>
-
-<hr>
-
 #### Research Experiences
+
+##### Oct 2023 – Present: Researcher 
+* Environment Footprint Lab, Environment Centre, Charles University in Prague, Czech Republic
 
 ##### Aug 2022 – Aug 2023: Researcher 
 * Prince of Songkhla University (PSU - Hatyai campus)
@@ -69,9 +57,23 @@ He received B.Eng. and M.Sc. in Land Management from Can Tho University [(CTU)](
 ##### Dec 2017 – May 2018: Visiting Researcher
 * KMUTT Geospatial Engineering and Innovation Center (KGEO), Thailand 
 * Duties: Remotely sensed Data Processing, Geospatial Data Analysis 
- 
 
 
+<hr>
+
+
+#### Education  
+##### 2019 – 2022: Ph.D. Environmental Technology
+* Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
+* Dissertation: <i>["Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"](https://www.researchgate.net/project/Assessment-of-Climate-Change-and-Urbanization-Impacts-on-Urban-Surface-Temperature-and-Ecosystem-Services-of-Urban-Green-Spaces)</i>
+
+##### 2017 – 2019: M.Sc. Land Management (GPA: 3.71/4.00) 
+* Can Tho University (CTU), Vietnam
+* Dissertation: <i>["Analysis of Urban Heat Island and Energy Consumption in Bangkok Metropolitan Area using Remote sensing"](https://www.researchgate.net/project/Analysis-of-urban-heat-island-and-energy-consumption-in-Bangkok-Metropolitan-Area-using-remote-sensing)</i> 
+
+##### 2012 – 2016: B.Eng. Land Management (GPA: 3.53/4.00) 
+* Can Tho University (CTU), Vietnam
+* Dissertation: <i>"Studying and Evaluating Ecosystem Service Values of Rice-Shrimp Farming in An Minh district, Kien Giang province" </i>
 
 
 <hr>
