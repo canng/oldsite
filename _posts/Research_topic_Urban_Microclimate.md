@@ -22,8 +22,6 @@ comments: false
 
 <li> <b>Nguyen, C.T.*</b>, Chidthaisong, A.*, Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 82(July 2022), 103882. <a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a><a href="https://canng.github.io/assets/Article_archive/2022_SCS_103822_urban_heat_bkk_hcm.pdf"> (PDF)</a></li> 
 
-<li> <b>Nguyen, C.T.</b>, Chidthaisong, A., Diem, P.K., Huo, L., 2021. A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8. Land 10, 1–17. <a href="https://doi.org/10.3390/land10030231"> 10.3390/land10030231</a><a href="https://canng.github.io/assets/Article_archive/2021_land_bare_soil_index_mbi.pdf"> (PDF)</a></li> 
-
 <li> <b>Nguyen, C. T.</b>, and Chidthaisong, A.*, 2022. Urban Green Space Inventory using Different Spatial Resolution Satellite Images: Practical notes in Bangkok. The 11th International Conference on Environmental Engineering, Science and Management. Bangkok, Thailand. pp. 333-340.<a href="https://canng.github.io/assets/Article_archive/conference/2022_green_space_inventory.pdf"> (PDF)</a></li> 
 
 <li> <b>Nguyen, C. T.*</b>, and Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.<a href="https://canng.github.io/assets/Article_archive/conference/2022_urban_green_cooling_capacity.pdf"> (PDF)</a></li> 
