@@ -2,6 +2,8 @@
 title: Urban environment & Urban microclimate
 layout: post
 image: assets/images/2022/2022-07-24-02.png
+categories:
+- research
 featured: true
 hidden: true
 comments: false
