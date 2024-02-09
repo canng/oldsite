@@ -9,7 +9,6 @@ permalink: /publications
 
 <i> * Corresponding Author </i>
 
-
 <hr>
 <ol reversed>
 

@@ -8,7 +8,6 @@ permalink: /cv
 <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
 
 <br>
-
 My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">here</a>
 
 (At the same time, you can check my <a href="https://docs.google.com/document/d/1KKFG0R_GdvoihzwFyTeQ7WHtc6dxCbxG/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">failure CV</a>)
@@ -24,7 +23,7 @@ He received B.Eng. and M.Sc. in Land Management from Can Tho University <a href=
 
 <br>
 
-### Research Interests
+<h3>Research Interests </h3>
 * Environmental Geography 
 * Land Change Science 
 * Environment Management 
