@@ -9,7 +9,7 @@ permalink: /cv
     <tr>
         <td style="text-align: left;">
             <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
-            <br>
+            <hr>
         </td>
     </tr>
     <tr>
