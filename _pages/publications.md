@@ -9,20 +9,15 @@ permalink: /publications
 
 <i> * Corresponding Author </i>
 
-<table width="1200">
-    <tr>
-        <td style="text-align: left;">
-            <ol reversed>
-            <h4> 2024 </h4>
-            <li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf"> (PDF)</a></li>
-            <li> Diem, P. K., <b>Nguyen, C. T.*</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2024. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 33(January 2024), 101081 <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101081_review_uhi.pdf"> (PDF)</a></li>
-        </td>
-    </tr>
-</table>
-
 
 <hr>
+<ol reversed>
 
+<h4> 2024 </h4>
+
+<li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf"> (PDF)</a></li>
+
+<li> Diem, P. K., <b>Nguyen, C. T.*</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2024. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 33(January 2024), 101081 <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101081_review_uhi.pdf"> (PDF)</a></li>
 
 <h5> 2023 </h5>
 <li><b>Nguyen, C. T.*</b>, & Chidthaisong A., 2023. Ecosystem Services Provided by Urban Green Spaces in Bangkok Metropolis: Public Awareness and Planning Implications. Urban Ecosystems. <a href="https://doi.org/10.1007/s11252-023-01482-1">10.1007/s11252-023-01482-1</a><a href="https://canng.github.io/assets/Article_archive/2023_UE_ESS_UGS.pdf"> (PDF)</a></li> 
