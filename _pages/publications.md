@@ -4,7 +4,7 @@ title: Selected peer-reviewed arcticles
 permalink: /publications
 #comments: true
 ---
-
+ 
 <i>  Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u> </i>
 
 <i> * Corresponding Author </i>
