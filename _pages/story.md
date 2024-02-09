@@ -5,6 +5,28 @@ permalink: /story
 #comments: true
 ---
 
+<table width="1500">
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/01_story_photo/2023_02.jpg" alt="Group photo with research team at Geo-Informatics and Space Technology Development Agency, Thailand (2023)" />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/lectures/cms2023-2.jpg" alt="" />
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/lectures/cms2023-3.jpg" alt="" />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/lectures/cms2023-4.jpg" alt="" />
+        </td>
+    </tr>
+</table>
+
+
+
+
 <img src="{{site.baseurl}}/assets/images/01_story_photo/2023_02.jpg" alt="" style="width: 750px"/>
 
 <i>Group photo with research team at Geo-Informatics and Space Technology Development Agency, Thailand (2023)</i>
