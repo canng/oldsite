@@ -24,18 +24,6 @@ permalink: /cv
     </tr>
 </table>
 
-
-
-
-
-
-
-<hr>
-
-
-
-<hr>
-
 ### Research Interests
 * Environmental Geography 
 * Land Change Science 
