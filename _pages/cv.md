@@ -5,7 +5,7 @@ permalink: /cv
 #comments: true
 ---
 
-<img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 350px"/>
+<img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 400px"/>
 
 My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> here </a> 
 
@@ -34,31 +34,6 @@ He received B.Eng. and M.Sc. in Land Management from Can Tho University [(CTU)](
 * Ecosystem Services 
 * Environmental Sustainability
 
-
-### Education  
-##### 2019 – 2022: Ph.D. Environmental Technology
-> Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
-
-##### 2012 – 2016: B.Eng. Land Management 
-> Can Tho University (CTU), Vietnam
-
-
-### Research Experiences
-##### Oct 2023 – Present: Researcher 
-> Environment Footprint Lab, Environment Centre, Charles University in Prague, Czech Republic
-
-##### Aug 2022 – Aug 2023: Researcher 
-> Prince of Songkhla University (PSU - Hatyai campus)
-> Space Technology Research Center, Geo-Informatics & Space Technology Development Agency (GISTDA), Thailand
-
-##### Aug 2019 – Aug 2022: Research Assistant (RA) 
-> AGAR Lab, JGSEE, KMUTT, Thailand (under supervision of Dr. Amnat Chidthaisong & Dr. Pariwate Varnakovida)
-
-##### Mar 2016 – Jul 2019: Research & Teaching Assistant (RA/TA)
-> Land Resources Dept., College of Environment and Natural Resources, Can Tho University, Vietnam 
-
-##### Dec 2017 – May 2018: Visiting Researcher
-> KMUTT Geospatial Engineering and Innovation Center (KGEO), Thailand 
 
 
 
