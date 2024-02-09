@@ -9,7 +9,8 @@ permalink: /story
 <table width="1500">
     <tr>
         <td style="text-align: center;">
-            <img src="{{site.baseurl}}/assets/images/01_story_photo/2023_02.jpg" alt="" style="height: 300px"/> Group photo
+            <img src="{{site.baseurl}}/assets/images/01_story_photo/2023_02.jpg" alt="" style="height: 300px"/>
+            <br> Group photo
         </td>
         <td style="text-align: center;">
             <img src="{{site.baseurl}}/assets/images/01_story_photo/2023_01.jpg" alt="" style="height: 300px"/>
