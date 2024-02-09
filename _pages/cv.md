@@ -10,8 +10,8 @@ permalink: /cv
         <td style="text-align: left;">
             <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 400px"/>
             <br>
-            My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> here </a>
-            (At the same time, you can check my <a href="https://docs.google.com/document/d/1KKFG0R_GdvoihzwFyTeQ7WHtc6dxCbxG/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> failure CV </a>)
+            My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">here</a>
+            (At the same time, you can check my <a href="https://docs.google.com/document/d/1KKFG0R_GdvoihzwFyTeQ7WHtc6dxCbxG/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">failure CV</a>)
         </td>
     </tr>
     <tr>
@@ -22,7 +22,7 @@ permalink: /cv
             <br>
             He completed his doctoral degree in Environmental Technology at The Joint Graduate School of Energy and Environment <a href="https://www.jgsee.kmutt.ac.th/v3/">(JGSEE)</a>, King Mongkut’s University of Technology Thonburi <a href="https://www.kmutt.ac.th/en/">(KMUTT)</a>, Thailand. His research focuses were Urbanization and Climate Change Impacts on Urban environment and Nature-based Solutions (NbS).
             <br>
-            He received B.Eng. and M.Sc. in Land Management from Can Tho University <a href="https://en.ctu.edu.vn/">(CTU)</a>), Vietnam, in 2016 and 2019, respectively. In 2016, he joined Land Resources Department <a href="https://lrd.ctu.edu.vn/en/">(LRD)</a>, College of Environment and Natural Resources, CTU as a Research and Teaching Assistant (RA/TA). In 2018, he was a short-term visiting researcher at KMUTT Geospatial Engineering and Innovation Center <a href="http://kgeo.org/kgeo/">(KGEO)</a>, Thailand.
+            He received B.Eng. and M.Sc. in Land Management from Can Tho University <a href="https://en.ctu.edu.vn/">(CTU)</a>, Vietnam, in 2016 and 2019, respectively. In 2016, he joined Land Resources Department <a href="https://lrd.ctu.edu.vn/en/">(LRD)</a>, College of Environment and Natural Resources, CTU as a Research and Teaching Assistant (RA/TA). In 2018, he was a short-term visiting researcher at KMUTT Geospatial Engineering and Innovation Center <a href="http://kgeo.org/kgeo/">(KGEO)</a>, Thailand.
             <br>
         </td>
     </tr>
