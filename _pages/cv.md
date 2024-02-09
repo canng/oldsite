@@ -8,8 +8,12 @@ permalink: /cv
 <table width="1200">
     <tr>
         <td style="text-align: left;">
-            <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 400px"/>
+            <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
             <br>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: left;">
             My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">here</a>
             (At the same time, you can check my <a href="https://docs.google.com/document/d/1KKFG0R_GdvoihzwFyTeQ7WHtc6dxCbxG/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">failure CV</a>)
         </td>
