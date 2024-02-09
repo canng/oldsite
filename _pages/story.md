@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Story
+title: Story by Photos
 permalink: /story
 #comments: true
 ---
+<i>Group photo with research team at Geo-Informatics and Space Technology Development Agency, Thailand (2023)</i>
 
 <table width="1500">
     <tr>
