@@ -22,6 +22,7 @@ He completed his doctoral degree in Environmental Technology at The Joint Gradua
 
 He received B.Eng. and M.Sc. in Land Management from Can Tho University <a href="https://en.ctu.edu.vn/">(CTU)</a>, Vietnam, in 2016 and 2019, respectively. In 2016, he joined Land Resources Department <a href="https://lrd.ctu.edu.vn/en/">(LRD)</a>, College of Environment and Natural Resources, CTU as a Research and Teaching Assistant (RA/TA). In 2018, he was a short-term visiting researcher at KMUTT Geospatial Engineering and Innovation Center <a href="http://kgeo.org/kgeo/">(KGEO)</a>, Thailand.
 
+<br>
 
 ### Research Interests
 * Environmental Geography 
