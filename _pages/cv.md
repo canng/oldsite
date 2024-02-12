@@ -8,7 +8,7 @@ permalink: /cv
 <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
 
 <br>
-<a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"><h3>Full Curriculum Vitae of Dr. Trong Can Nguyen</h3></a>
+<a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"><h4>Full Curriculum Vitae of Dr. Trong Can Nguyen</h4></a>
 
 <hr>
 
