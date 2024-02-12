@@ -3,7 +3,7 @@ title: Ecological environment and Ecosystem services
 layout: post
 categories:
 - research
-image: assets/images/ecosystem_services.jpg
+image: assets/images/2022/2022-07-24-02.png
 featured: true
 hidden: true
 comments: false
