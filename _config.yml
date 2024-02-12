@@ -3,7 +3,7 @@ name: "Can Trong Nguyen"
 title: "Can T.N."
 description: "Researcher, Environmental Geography & Geoinformatics"
 logo: 'assets/images/Geonate_logo.png'
-favicon: 'assets/images/Geonate_icon.png'
+favicon: 'assets/images/Geonate_icon.ico'
 baseurl: 'https://canng.github.io'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
