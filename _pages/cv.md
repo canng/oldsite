@@ -8,10 +8,9 @@ permalink: /cv
 <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
 
 <br>
-My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">here</a>
+<a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"><b>Full Curriculum Vitae of Dr. Trong Can Nguyen</b></a>
 
-(At the same time, you can check my <a href="https://docs.google.com/document/d/1KKFG0R_GdvoihzwFyTeQ7WHtc6dxCbxG/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">failure CV</a>)
-
+<hr>
 
 Can Trong Nguyen is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, <a href="https://czp.cuni.cz/en/">Charles University Environment Centre</a> under the project of <a href="https://czp.cuni.cz/en/projects/pathways-towards-environmental-sustainability-gacr-expro-2023-2027">Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027)</a> with <a href="https://czp.cuni.cz/en/about-us/staff/jan-weinzettel">Dr. Jan Weinzettel</a>.
 
