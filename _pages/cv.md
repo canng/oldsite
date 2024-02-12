@@ -12,6 +12,8 @@ permalink: /cv
 
 <a href="https://scholar.google.com/citations?user=oUX6rbQAAAAJ&hl=vi&authuser=1"><img src="{{site.baseurl}}/assets/images/icon/Google_Scholar_logo.png" alt="" style="height: 40px"/></a>
 <a href="https://www.researchgate.net/profile/Can-Nguyen-3"><img src="{{site.baseurl}}/assets/images/icon/ResearchGate.png" alt="" style="height: 40px"/></a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57189026531"><img src="{{site.baseurl}}/assets/images/icon/Scopus_logo.png" alt="" style="height: 40px"/></a>
+<a href="https://orcid.org/0000-0003-0471-4062"><img src="{{site.baseurl}}/assets/images/icon/orcid.logo.svg" alt="" style="height: 40px"/></a>
 
 <hr>
 
