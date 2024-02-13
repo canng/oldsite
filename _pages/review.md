@@ -32,6 +32,8 @@ permalink: /review
 #### IOP
 * <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>
 * <a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a>
+* <a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a>
+
 
 #### Others
 * <a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI)
