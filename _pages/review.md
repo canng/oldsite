@@ -13,6 +13,7 @@ permalink: /review
 * <a href="https://www.cell.com/heliyon/home">Heliyon</a>
 * <a href="https://www.sciencedirect.com/journal/world-development-sustainability">World Development Sustainability</a>
 * <a href="https://www.sciencedirect.com/journal/journal-of-urban-management">Journal of Urban Management</a>
+* <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>
 
 #### Springer
 * <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>
