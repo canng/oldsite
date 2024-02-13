@@ -5,7 +5,7 @@ permalink: /review
 #comments: true
 ---
 
-<i>Over the past three years, starting from my doctoral program, I has several opportunities to contribute to peer-reviewed process of over 20 Journals belonging to 5 differerent Publishers</i>
+<i>Over the past 04 years, starting from my doctoral program, I has several opportunities to contribute to peer-reviewed process of over 20 Journals belonging to 05 differerent Publishers</i>
 
 #### Elsevier
 * <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>
