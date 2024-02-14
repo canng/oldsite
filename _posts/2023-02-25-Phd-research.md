@@ -1,12 +1,17 @@
 ---
-title: Urbanization & Urban microclimate
+title: Doctoral Research Project
 layout: post
 categories:
-- Feature research
+- research
 image: assets/images/2022/2022-07-24-02.png
+featured: false
+hidden: false
+comments: false
 ---
 
-<b>"Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"</b>, which in turn addressed 3 specific objectives: 
+<h2><b>"Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces"</b></h3>
+<br>
+which in turn addressed 3 specific objectives: 
 
 * To detect the integrated impacts of urban expansion and climate change on urban surface temperature and surface urban heat island over the past thirty years in primary Southeast Asian cities (i.e., Bangkok, Ho Chi Minh city, Jakarta, Kuala Lumpur, Mainila, Yangon).
 
