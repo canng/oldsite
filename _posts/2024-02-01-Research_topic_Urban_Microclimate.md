@@ -1,7 +1,7 @@
 ---
 title: Urban environment & Urban microclimate
 layout: post
-image: assets/images/Theme1_UrbanHeat.png
+image: assets/images/Research_Features/RFs_Urban_environment.jpg
 categories:
 - research
 featured: true
