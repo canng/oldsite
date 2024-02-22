@@ -11,7 +11,7 @@ permalink: /review
 <br>
 
 
-<table width="800">
+<table width="1200">
     <tr>
         <td style="text-align: center;">
             <img src="{{site.baseurl}}/assets/images/review/Certificate_SCS_Recognised.jpg" alt="" />
