@@ -10,6 +10,29 @@ permalink: /review
 <i>My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research as I did.</i>
 <br>
 
+
+<table width="800">
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/review/Certificate_SCS_Recognised.jpg" alt="" />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/review/Certificate_ENVC_Recognised.jpg" alt="" />
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/review/Certificate_JAG_Recognised.jpg" alt="" />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/assets/images/review/Certificate_JUM_Recognised.jpg" alt="" />
+        </td>
+    </tr>
+</table>
+
+<br>
+<hr>
+
 #### Elsevier
 * <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>
 * <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>
