@@ -9,12 +9,15 @@ hidden: true
 comments: false
 ---
 
+<hr>
+
 #### Urbanization 
 
 <li> <b>Nguyen, C.T.*</b>, Diep, N.T.H., Iabchoon, S., 2021. Direction of urban expansion in the Bangkok Metropolitan Area, Thailand under the impacts of a national strategy. Vietnam Journal of Earth Sciences. 43. <a href="https://doi.org/10.15625/2615-9783/16313"> 10.15625/2615-9783/16313</a><a href="https://canng.github.io/assets/Article_archive/2021_VJES_urbanization_direction_BMA.pdf"> (PDF)</a></li> 
 
 <li> Diep, N.T.H., <b>Nguyen, C.T.*</b>, Diem, P.K., Hoang, N.X., Kafy, A.A., 2022. Assessment on controlling factors of urbanization possibility in a newly developing city of the Vietnamese Mekong delta using logistic regression analysis. Physics and Chemistry of the Earth, Parts A/B/C, 126, 103065. <a href="https://doi.org/10.1016/j.pce.2021.103065"> 10.1016/j.pce.2021.103065</a><a href="https://canng.github.io/assets/Article_archive/2022_PCE_103065_urbanization_can_tho.pdf"> (PDF)</a></li> 
 
+<hr>
 
 #### Urban Environments 
 
@@ -24,6 +27,7 @@ comments: false
 
 <li> <b>Nguyen, C. T.*</b>, and Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.<a href="https://canng.github.io/assets/Article_archive/conference/2022_urban_green_cooling_capacity.pdf"> (PDF)</a></li> 
 
+<hr>
 
 #### Urban Heat Islands
 
