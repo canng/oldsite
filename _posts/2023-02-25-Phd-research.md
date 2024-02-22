@@ -1,8 +1,10 @@
 ---
 title: Doctoral Research Project
 layout: post
-categories:
+categories: 
 - research
+tags: 
+  - research
 image: assets/images/2022/2022-07-24-02.png
 featured: false
 hidden: false
