@@ -10,7 +10,7 @@ comments: false
 ---
 
 
-#### Selected Publications
+#### Urbanization and Urban environment
 
 <li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf"> (PDF)</a></li> 
 
@@ -22,5 +22,5 @@ comments: false
 
 <li> <b>Nguyen, C. T.*</b>, and Chidthaisong, A., & Kaewthongrach R., 2022. Assessment of cooling capacity by urban parks from a multi-data source approach. The 8th International Conference on Sustainable Urban Development. Binh Duong, Vietnam (20/10/2022). pp.33-46.<a href="https://canng.github.io/assets/Article_archive/conference/2022_urban_green_cooling_capacity.pdf"> (PDF)</a></li> 
 
-
+#### Urban heat island effects
 
