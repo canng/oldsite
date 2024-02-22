@@ -6,8 +6,8 @@ author: Can Nguyen
 categories: review
 tags: 
   - review
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 
