@@ -3,7 +3,7 @@ title: Ecosystem services
 layout: post
 categories:
 - research
-image: assets/images/Research_features/RFs_Ecosystem_services.jpg
+image: assets/images/Research_features/RFs_Ecosystem_services_ugs.jpg
 featured: true
 hidden: true
 comments: false
