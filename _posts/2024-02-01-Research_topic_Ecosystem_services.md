@@ -8,7 +8,7 @@ featured: true
 hidden: true
 comments: false
 ---
-
+<hr>
 #### Selected Publications
 
 <li><b>Nguyen, C. T.*</b>, & Chidthaisong A., 2023. Ecosystem Services Provided by Urban Green Spaces in Bangkok Metropolis: Public Awareness and Planning Implications. Urban Ecosystems. <a href="https://doi.org/10.1007/s11252-023-01482-1">10.1007/s11252-023-01482-1</a><a href="https://canng.github.io/assets/Article_archive/2023_UE_ESS_UGS.pdf"> (PDF)</a></li> 
