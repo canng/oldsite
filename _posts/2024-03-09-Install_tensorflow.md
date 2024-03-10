@@ -86,7 +86,9 @@ $python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'
 ```
 
 If it returns something like the following line, you have successfully installed TensorFlow with GPU support.  
-> [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]   
+<div>  
+[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]   
+</div>  
 
 Or, you can even test it inside virtual environment 
 ```
@@ -97,9 +99,13 @@ print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 ```
 
 It returns the following lines if you have your GPU in use of TensorFlow  
-> 2.10.1   
-> [PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'), PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]   
-> Num GPUs Available:  1   
+
+<div >   
+2.10.1   
+[PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'), PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]   
+Num GPUs Available:  1   
+</div>   
+
 
 7. Fix kernel dies when running tensorflow code (additional)
 
@@ -114,6 +120,7 @@ If you face an error of *kernel dies* when you run the TensorFlow codes *The ker
 #### Sources
 
 <https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/ >  
+
 <https://github.com/microsoft/vscode-jupyter/issues/9157>
 
 
