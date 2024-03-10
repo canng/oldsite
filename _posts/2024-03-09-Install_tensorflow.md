@@ -29,10 +29,16 @@ comments: false
 
 If your graphic card is suitable for ML/DL with a suitable compute capability, you can download and install the latest version of the graphic card driver by selecting your corresponding card's specs. Then, you can install the driver by applying default options.
 
-[Download NVIDIA graphic driver](/assets/images/2024/2024-03-10-image_01.jpg)
+[!Download NVIDIA graphic driver!](/assets/images/2024/2024-03-10-image_01.jpg)
 
 
-2. 
+2. Install CUDA resources
+
+ - Download and install [CUDA Toolkit 11.8](https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)   
+
+[!Cuda Toolkit 11.8!](/assets/images/2024/2024-03-10-image_02.jpg)
+ 
+- 
 
 https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/ 
 
