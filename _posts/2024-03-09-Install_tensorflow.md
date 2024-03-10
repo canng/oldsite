@@ -86,7 +86,7 @@ $python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'
 ```
 
 If it returns something like the following line, you have successfully installed TensorFlow with GPU support.  
-<div>  
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #333333;; background-color: #ffffff; border-color: #ffffff;">
 [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]   
 </div>  
 
@@ -100,7 +100,7 @@ print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 
 It returns the following lines if you have your GPU in use of TensorFlow  
 
-<div >   
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #333333;; background-color: #ffffff; border-color: #ffffff;">
 2.10.1   
 [PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'), PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]   
 Num GPUs Available:  1   
