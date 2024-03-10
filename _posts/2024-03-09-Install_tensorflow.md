@@ -45,10 +45,10 @@ If your graphic card is suitable for ML/DL with a suitable compute capability, y
  
 - Download [cuDNN SDK 8.6.0 (for CUDA 11.x for Windows)](https://developer.nvidia.com/rdp/cudnn-archive). You then need to extract the cuDNN files, copy and paste all files and folders into the CUDA install location. E.g., *C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8*   
 
-Open the **Environmental Variables** and add two new paths:
+Open the **Environmental Variables** and add two new paths:   
 ```
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin   
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\libnvvp 
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\libnvvp   
 ```
 
 4. Install Anaconda 3  
@@ -62,7 +62,7 @@ C:\Users\yourusername\anaconda3\Library\bin
 C:\Users\yourusername\anaconda3\Scripts   
 ```
 
-- Create a new virtual environment with python=3.10
+- Create a new virtual environment with python=3.10   
 
 ```
 conda create -name cnn python=3.10   
@@ -70,15 +70,15 @@ conda activate cnn
 ```
 
 
-5. Install TensorFlow 2.10
+5. Install TensorFlow 2.10   
 
 ```
 pip install –upgrade pip   
-pip install "tensorflow<2.11"
+pip install "tensorflow<2.11"   
 
 ```
 
-6. Verify installation
+6. Verify installation   
 
 To check whether TensorFlow is installed correctly with GPU support, enter the following codes in Anaconda prompt
 ```
@@ -86,7 +86,7 @@ $python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'
 ```
 
 If it returns something like the following line, you have successfully installed TensorFlow with GPU support.  
-> [PhysicalDevice(name=’/physical_device:GPU:0′, device_type=’GPU’)]
+> [PhysicalDevice(name=’/physical_device:GPU:0′, device_type=’GPU’)]   
 
 7. Fix kernel dies when running tensorflow code (additional)
 
@@ -94,7 +94,7 @@ If you face, an error when you run the TensorFlow codes *The kernel appears to h
 
 - Go to "C:\Program Files\Microsoft Office\root\Office16\ODBC Drivers\Salesforce\lib"   
 - Locate the file, **"zlibwapi.dll"**   
-- Copy and paste it into the CUDA toolkit folder at "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\bin"
+- Copy and paste it into the CUDA toolkit folder at "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\bin"   
 
 
 
