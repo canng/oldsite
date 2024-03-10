@@ -56,19 +56,52 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\libnvvp
 - Download and install [Anaconda 3](https://www.anaconda.com/download#downloads)  
 
 Then, open **Environment variable** and add three more paths (under PATH)   
-> C:\Users\yourusername\anaconda3   
-> C:\Users\yourusername\anaconda3\Library\bin   
-> C:\Users\yourusername\anaconda3\Scripts   
+```
+C:\Users\yourusername\anaconda3   
+C:\Users\yourusername\anaconda3\Library\bin   
+C:\Users\yourusername\anaconda3\Scripts   
+```
 
-- Create a new virtual environment 
+- Create a new virtual environment with python=3.10
+
+```
+conda create -name cnn python=3.10   
+conda activate cnn   
+```
+
+
+5. Install TensorFlow 2.10
+
+```
+pip install –upgrade pip   
+pip install "tensorflow<2.11"
+
+```
+
+6. Verify installation
+
+To check whether TensorFlow is installed correctly with GPU support, enter the following codes in Anaconda prompt
+```
+$python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+```
+
+If it returns something like the following line, you have successfully installed TensorFlow with GPU support.  
+> [PhysicalDevice(name=’/physical_device:GPU:0′, device_type=’GPU’)]
+
+7. Fix kernel dies when running tensorflow code (additional)
+
+If you face, an error when you run the TensorFlow codes *The kernel appears to have died*   
+
+- Go to "C:\Program Files\Microsoft Office\root\Office16\ODBC Drivers\Salesforce\lib"   
+- Locate the file, **"zlibwapi.dll"**   
+- Copy and paste it into the CUDA toolkit folder at "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\bin"
 
 
 
+#### Sources
+
+<https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/ >
+<https://github.com/microsoft/vscode-jupyter/issues/9157>
 
 
-https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/ 
-
-### Fix kernel dies when running tensorflow code
-
-https://github.com/microsoft/vscode-jupyter/issues/9157
 
