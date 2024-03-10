@@ -19,7 +19,7 @@ We can add more basemaps into QGIS 3.x by the following steps:
 
 1. Plugins > Python console   
 
-2. Copy and Paste this [python code](/asets/code/qgis_basemap.py) and Run command
+2. Copy and Paste this [python code](/assets/code/qgis_basemap.py) and Run command
 
 3. Restart QGIS   
 
