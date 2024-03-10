@@ -46,8 +46,10 @@ If your graphic card is suitable for ML/DL with a suitable compute capability, y
 - Download [cuDNN SDK 8.6.0 (for CUDA 11.x for Windows)](https://developer.nvidia.com/rdp/cudnn-archive). You then need to extract the cuDNN files, copy and paste all files and folders into the CUDA install location. E.g., *C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8*   
 
 Open the **Environmental Variables** and add two new paths:
-` C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin   
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\libnvvp `
+```
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin   
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\libnvvp 
+```
 
 4. Install Anaconda 3  
 
