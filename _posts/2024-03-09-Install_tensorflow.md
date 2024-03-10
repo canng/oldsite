@@ -15,6 +15,17 @@ comments: false
 
 ## Install TensorFlow GPU on Windows 10
 
+> 
+> My PC spec 
+> MSI GF 63 8RD, Intel Core i5 8300H CPU @2.30GHz (4 Cores, 8 Threads)
+> RAM 24 GB (upgraded)
+> Graphics (duals): NVIDIA GeForece GTX 1050 Ti with Max-Q and Intel(R) UHD Graphics 630
+> 
+
+
+
+
+
 https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/ 
 
 ### Fix kernel dies when running tensorflow code
