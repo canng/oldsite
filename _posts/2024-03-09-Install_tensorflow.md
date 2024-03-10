@@ -27,9 +27,12 @@ comments: false
 
 > Before going further, make sure that your NVIDIA Graphic card is supported Machine learning/Deep learning capability with **compute capability of higher equal 3.0** <https://developer.nvidia.com/cuda-gpus>
 
-If your graphic card is suitable for ML/DL with a suitable compute capability, you can download and install the latest version of the graphic card driver by selecting your corresponding card's specs.
+If your graphic card is suitable for ML/DL with a suitable compute capability, you can download and install the latest version of the graphic card driver by selecting your corresponding card's specs. Then, you can install the driver by applying default options.
 
-[!Download NVIDIA graphic driver!](assets/images/2024/2024-03-10-image_01.jpg)
+[Download NVIDIA graphic driver](/assets/images/2024/2024-03-10-image_01.jpg)
+
+
+2. 
 
 https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/ 
 
