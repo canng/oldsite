@@ -90,7 +90,7 @@ If it returns something like the following line, you have successfully installed
 
 7. Fix kernel dies when running tensorflow code (additional)
 
-If you face, an error when you run the TensorFlow codes *The kernel appears to have died*   
+If you face an error of *kernel dies* when you run the TensorFlow codes *The kernel appears to have died*   
 
 - Go to "C:\Program Files\Microsoft Office\root\Office16\ODBC Drivers\Salesforce\lib"   
 - Locate the file, **"zlibwapi.dll"**   
