@@ -21,17 +21,21 @@ comments: false
 > Intel Core i5 8300H CPU @2.30GHz (4 Cores, 8 Threads)   
 > RAM 24 GB (upgraded)   
 > Graphics: NVIDIA GeForce GTX 1050 Ti with Max-Q and Intel(R) UHD Graphics 630   
-> Windows 10 version 21H2
+> Windows 10 version 21H2  
 
-<hr>  
-
+<br>   
 
 > Before going further, make sure that your NVIDIA Graphic card is supported CUDA and Machine learning/Deep learning capability with **compute capability of higher equal 3.0** <https://developer.nvidia.com/cuda-gpus>  
 
+<hr>
+
+<br>    
 
 1. Install Visual Studio Community 2015-2019 
 
-    TensorFlow in Native Windows requires Microsoft Visual C++ Redistributable for [Visual Studio 2015, 2017, and 2019](https://download.visualstudio.microsoft.com/download/pr/4100b84d-1b4d-487d-9f89-1354a7138c8f/5B0CBB977F2F5253B1EBE5C9D30EDBDA35DBD68FB70DE7AF5FAAC6423DB575B5/VC_redist.x64.exe) (Do not install the lastest version, e.g., 2022)
+    TensorFlow in Native Windows requires Microsoft Visual C++ Redistributable for [Visual Studio 2015, 2017, and 2019](https://download.visualstudio.microsoft.com/download/pr/4100b84d-1b4d-487d-9f89-1354a7138c8f/5B0CBB977F2F5253B1EBE5C9D30EDBDA35DBD68FB70DE7AF5FAAC6423DB575B5/VC_redist.x64.exe) 
+    
+    >Do not install the lastest version, e.g., 2022
 
 
 2. Install NVIDIA graphics drivers  
@@ -79,7 +83,6 @@ comments: false
     ```
     pip install --upgrade pip   
     pip install "tensorflow<2.11"   
-
     ```
 
 6. Verify installation   
@@ -103,11 +106,13 @@ comments: false
     It returns the following lines if you have your GPU in use of TensorFlow  
 
     > 2.10.1   
+    >
     > [PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'), PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]   
+    >  
     > Num GPUs Available:  1   
 
 
-7. Fix kernel dies when running tensorflow code (additional)
+7. Fix kernel dies when running tensorflow code (additional)   
 
     If you face an error of *kernel dies* when you run the TensorFlow codes **The kernel appears to have died**   
 
@@ -117,11 +122,10 @@ comments: false
 
 
 
-#### Sources
+    #### Sources
 
-<https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/ >  
-
-<https://github.com/microsoft/vscode-jupyter/issues/9157>
-
+    <https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/>  
+    <https://github.com/microsoft/vscode-jupyter/issues/9157>   
+    <https://www.tensorflow.org/install/pip#windows-wsl2_1>    
 
 
