@@ -21,7 +21,7 @@ comments: false
 > Intel Core i5 8300H CPU @2.30GHz (4 Cores, 8 Threads)   
 > RAM 24 GB (upgraded)   
 > Graphics: NVIDIA GeForce GTX 1050 Ti with Max-Q and Intel(R) UHD Graphics 630   
-> 
+> Windows 10 version 21H2
 
 <hr>  
 
@@ -86,7 +86,7 @@ comments: false
 
     To check whether TensorFlow is installed correctly with GPU support, enter the following codes in Anaconda prompt
     ```
-    $python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+    python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
     ```
 
     If it returns something like the following line, you have successfully installed TensorFlow with GPU support.  
@@ -109,7 +109,7 @@ comments: false
 
 7. Fix kernel dies when running tensorflow code (additional)
 
-    If you face an error of *kernel dies* when you run the TensorFlow codes *The kernel appears to have died*   
+    If you face an error of *kernel dies* when you run the TensorFlow codes **The kernel appears to have died**   
 
     - Go to "C:\Program Files\Microsoft Office\root\Office16\ODBC Drivers\Salesforce\lib"   
     - Locate the file, **"zlibwapi.dll"**   
