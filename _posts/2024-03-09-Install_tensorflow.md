@@ -26,7 +26,7 @@ comments: false
 <hr>  
 
 
-> Before going further, make sure that your NVIDIA Graphic card is supported Machine learning/Deep learning capability with **compute capability of higher equal 3.0** <https://developer.nvidia.com/cuda-gpus>  
+> Before going further, make sure that your NVIDIA Graphic card is supported CUDA and Machine learning/Deep learning capability with **compute capability of higher equal 3.0** <https://developer.nvidia.com/cuda-gpus>  
 
 
 1. Install Visual Studio Community 2015-2019 
