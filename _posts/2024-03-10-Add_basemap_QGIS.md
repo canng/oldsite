@@ -28,7 +28,7 @@ We can add more basemaps into QGIS 3.x by the following steps:
 
 #### Sources   
 
-<https://opengislab.com/blog/2018/4/15/add-basemaps-in-qgis-30 >  
+<https://opengislab.com/blog/2018/4/15/add-basemaps-in-qgis-30>  
 
 
 

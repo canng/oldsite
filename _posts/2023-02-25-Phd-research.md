@@ -26,7 +26,9 @@ which addressed  in turn 03 specific objectives:
 
 #### <b> Outputs </b>
   
-  > <i>03 scientific articles, 01 book chapter, 02 conference presentations </i>
+  >  
+  > <i>03 scientific articles, 01 book chapter, 02 conference presentations </i>  
+  > 
 
 <ol reversed>
 
