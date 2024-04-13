@@ -42,6 +42,8 @@ permalink: /review
 * <a href="https://www.sciencedirect.com/journal/world-development-sustainability">World Development Sustainability</a>
 * <a href="https://www.sciencedirect.com/journal/journal-of-urban-management">Journal of Urban Management</a>
 * <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>
+* <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>
+
 
 #### Springer
 * <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>
@@ -63,6 +65,8 @@ permalink: /review
 * <a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a>
 * <a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a>
 
+### Nature
+* <a href="https://www.nature.com/srep/">Scientific Reports</a>
 
 #### Others
 * <a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI)
