@@ -113,6 +113,13 @@ permalink: /publications
 
 </ol>
 
-   
+<hr>
+
+<h2>Publication in Vietnamese</h2>
+
+<ol reversed>
+
+<i>Updating...</i>
+</ol>
 
 <hr>
