@@ -8,7 +8,7 @@ permalink: /cv
 <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
 
 <br>
-<h4><a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">(Full Curriculum Vitae of Dr. Trong Can Nguyen)</a><h4>
+<h4><a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">Full Curriculum Vitae of Dr. Trong Can Nguyen</a></h4>
 
 <a href="https://scholar.google.com/citations?user=xnzuZiAAAAAJ&hl=en&oi=ao"><img src="{{site.baseurl}}/assets/images/icon/Google_Scholar_logo.png" alt="" style="height: 45px"/></a>
 <a href="https://www.researchgate.net/profile/Can-Nguyen-3"><img src="{{site.baseurl}}/assets/images/icon/ResearchGate.png" alt="" style="height: 45px"/></a>
