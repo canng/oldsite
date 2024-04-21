@@ -5,9 +5,9 @@ permalink: /review
 #comments: true
 ---
 
-<i>Over the past 04 years, starting from my doctoral program, I have gained several opportunities to contribute to the peer-reviewed process of over 20 Journals belonging to 05 different Publishers</i>
+<i>Over the past few years, starting from my doctoral program, I have gained several opportunities to contribute to the peer-reviewed process of over 20 Journals belonging to 05 different Publishers</i>
 
-<i>My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research as I did.</i>
+<i>My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research.</i>
 <br>
 
 
@@ -44,14 +44,19 @@ permalink: /review
 * <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>
 * <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>
 
+<br>
 
 #### Springer
 * <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>
 * <a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a>
 
+<br>
+
 #### Taylor and Francis
 * <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>
 * <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>
+
+<br>
 
 #### MDPI
 * <a href="https://www.mdpi.com/journal/remotesensing">Remote Sensing</a>
@@ -60,13 +65,19 @@ permalink: /review
 * <a href="https://www.mdpi.com/journal/agriculture">Agriculture</a>
 * <a href="https://www.mdpi.com/journal/sensors">Sensors</a>
 
+<br>
+
 #### IOP
 * <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>
 * <a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a>
 * <a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a>
 
+<br>
+
 ### Nature
 * <a href="https://www.nature.com/srep/">Scientific Reports</a>
+
+<br>
 
 #### Others
 * <a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI)
