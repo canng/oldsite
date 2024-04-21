@@ -17,24 +17,21 @@ permalink: /cv
 
 <hr>
 <br>
+<h3>About:</h3>
+
 Can Trong Nguyen is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, <a href="https://czp.cuni.cz/en/">Charles University Environment Centre</a> under the project of <a href="https://czp.cuni.cz/en/projects/pathways-towards-environmental-sustainability-gacr-expro-2023-2027">Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027)</a> with <a href="https://czp.cuni.cz/en/about-us/staff/jan-weinzettel">Dr. Jan Weinzettel</a> and <a href="https://czp.cuni.cz/en/about-us/staff/davina-vackarova">Dr. Davina Vačkářová</a>.
 
-<br>
 Prior to join Charles University Environment Centre, he was a researcher for a joint program between <a href="https://en.psu.ac.th/">Prince of Songkla University (Hatyai campus)</a> and <a href="https://www.gistda.or.th/home.php?lang=EN">Geo-Informatics and Space Technology Development Agency </a>(GISTDA, Public Orgainization), under the framework of <a href="https://www.futureearththailand.org/frontpage">Future Earth Thailand</a>. 
 
-<br>
 He completed his doctoral degree in Environmental Technology at <a href="https://www.jgsee.kmutt.ac.th/v3/">The Joint Graduate School of Energy and Environment </a>(JGSEE), <a href="https://www.kmutt.ac.th/en/">King Mongkut’s University of Technology Thonburi </a>(KMUTT), Thailand. His research focuses were Urbanization and Climate Change Impacts on Urban environment and Nature-based Solutions (NbS).
 
-<br>
 He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu.vn/">Can Tho University (CTU)</a>, Vietnam, in 2016 and 2019, respectively. In 2016, he joined <a href="https://lrd.ctu.edu.vn/en/">Land Resources Department (LRD)</a>, College of Environment and Natural Resources, CTU as a Research and Teaching Assistant (RA/TA). In 2018, he was a short-term visiting researcher at <a href="http://kgeo.org/kgeo/">KMUTT Geospatial Engineering and Innovation Center (KGEO)</a>, Thailand.
 
 <br>
 
 <h3>Education</h3>
 <li>Ph.D. in Environmentl Technology at King Mongkut's University of Technology Thonburi, Thailand (2019-2022)</li>
-<br>
 <li>MSc. in Land Management at Can Tho University and KMUTT Geospatial Engineering and InnOvation Center (KGEO), Vietnam & Thailand (2016-2018)</li>
-<br>
 <li>B.Eng. in Land Managment at Can Tho University, Vietnam (2012-2016)</li>
 
 </li>
@@ -42,7 +39,13 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
 <br>
 
 <h3>Research Interests </h3>
-Environmental Geography | Land Change Science | Environment Management | Urban Microclimate | Urban Environmental Management & Planning | Ecosystem Services | Environmental Sustainability
+<li>Environmental Geography </li>
+<li>Land Change Science  </li>
+<li>Environment Management  </li>
+<li>Urban Microclimate  </li>
+<li>Urban Environmental Management & Planning  </li>
+<li>Ecosystem Services  </li>
+<li>Environmental Sustainability  </li>
 
 <br>
 <hr>
