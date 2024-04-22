@@ -5,9 +5,9 @@ permalink: /review
 #comments: true
 ---
 
-<i>Over the past 04 years, starting from my doctoral program, I have gained several opportunities to contribute to the peer-reviewed process of over 20 Journals belonging to 05 different Publishers</i>
+<i>Over the past few years, starting from my doctoral program, I have gained several opportunities to contribute to the peer-reviewed process of over 20 Journals belonging to 05 different Publishers</i>
 
-<i>My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research as I did.</i>
+<i>My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research.</i>
 <br>
 
 
@@ -44,7 +44,6 @@ permalink: /review
 * <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>
 * <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>
 
-
 #### Springer
 * <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>
 * <a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a>
@@ -67,6 +66,7 @@ permalink: /review
 
 ### Nature
 * <a href="https://www.nature.com/srep/">Scientific Reports</a>
+
 
 #### Others
 * <a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI)
