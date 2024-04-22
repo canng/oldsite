@@ -11,7 +11,7 @@ comments: false
 
 <hr>
 
-### Urbanization 
+#### Urbanization 
 
 <li> <b>Nguyen, C.T.*</b>, Diep, N.T.H., Iabchoon, S., 2021. Direction of urban expansion in the Bangkok Metropolitan Area, Thailand under the impacts of a national strategy. Vietnam Journal of Earth Sciences. 43. <a href="https://doi.org/10.15625/2615-9783/16313"> 10.15625/2615-9783/16313</a><a href="https://canng.github.io/assets/Article_archive/2021_VJES_urbanization_direction_BMA.pdf"> (PDF)</a></li> 
 
@@ -19,7 +19,7 @@ comments: false
 
 <hr>
 
-### Urban Environments 
+#### Urban Environments 
 
 <li><b>Nguyen, C.T.*</b>, Diep, N.T.H., Diem, P.K., 2020. Factors Affecting Urban Electricity Consumption: a case study in the Bangkok Metropolitan Area using an Integrated approach of Earth Observation data and Data analysis.  Environmental Science and Pollution Research. 28 (SI: Environmental and Energy Management), 12056–12066. <a href="https://doi.org/10.1007/s11356-020-09157-6"> 10.1007/s11356-020-09157-6</a><a href="https://canng.github.io/assets/Article_archive/2020_ESPR_surface_change_electricity_bkk.pdf"> (PDF)</a></li> 
 
@@ -29,7 +29,7 @@ comments: false
 
 <hr>
 
-### Urban Heat Islands
+#### Urban Heat Islands
 
 <li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf"> (PDF)</a></li> 
 

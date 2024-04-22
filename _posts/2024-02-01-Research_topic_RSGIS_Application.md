@@ -11,7 +11,7 @@ comments: false
 
 <hr>
 
-### Remote Sensing
+#### Remote Sensing
 
 <li> <b>Nguyen, C.T.</b>, Chidthaisong, A., Diem, P.K., Huo, L., 2021. A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8. Land 10, 1–17. <a href="https://doi.org/10.3390/land10030231"> 10.3390/land10030231</a><a href="https://canng.github.io/assets/Article_archive/2021_land_bare_soil_index_mbi.pdf"> (PDF)</a></li> 
 
@@ -19,7 +19,7 @@ comments: false
 
 <hr>
  
-### Applications
+#### Applications
 
 <li> Yaung, K. La, Chidthaisong, A., Limsakul, A., Varnakovida, P., <b>Nguyen, C.T.</b>, 2021. Land Use Land Cover Changes and Their Effects on Surface Air Temperature in Myanmar and Thailand. Sustainability 13, 1–21.<a href="https://doi.org/10.3390/su131910942"> 10.3390/su131910942</a><a href="https://canng.github.io/assets/Article_archive/2021_sustainability_lulcc_air_temperature_thailand_myanmar.pdf"> (PDF)</a></li> 
 

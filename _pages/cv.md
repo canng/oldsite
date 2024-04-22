@@ -17,9 +17,7 @@ permalink: /cv
 
 <hr>
 <br>
-<h3>About:</h3>
-
-Can Trong Nguyen is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, <a href="https://czp.cuni.cz/en/">Charles University Environment Centre</a> under the project of <a href="https://czp.cuni.cz/en/projects/pathways-towards-environmental-sustainability-gacr-expro-2023-2027">Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027)</a> with <a href="https://czp.cuni.cz/en/about-us/staff/jan-weinzettel">Dr. Jan Weinzettel</a> and <a href="https://czp.cuni.cz/en/about-us/staff/davina-vackarova">Dr. Davina Vačkářová</a>.
+Can Trong Nguyen is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, <a href="https://czp.cuni.cz/en/">Charles University Environment Centre</a> under the project of <a href="https://czp.cuni.cz/en/projects/pathways-towards-environmental-sustainability-gacr-expro-2023-2027">Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027)</a> with <a href="https://czp.cuni.cz/en/about-us/staff/jan-weinzettel">Dr. Jan Weinzettel</a>.
 
 Prior to join Charles University Environment Centre, he was a researcher for a joint program between <a href="https://en.psu.ac.th/">Prince of Songkla University (Hatyai campus)</a> and <a href="https://www.gistda.or.th/home.php?lang=EN">Geo-Informatics and Space Technology Development Agency </a>(GISTDA, Public Orgainization), under the framework of <a href="https://www.futureearththailand.org/frontpage">Future Earth Thailand</a>. 
 
@@ -29,27 +27,17 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
 
 <br>
 
-<h3>Education</h3>
-<li>Ph.D. in Environmentl Technology at King Mongkut's University of Technology Thonburi, Thailand (2019-2022)</li>
-<li>MSc. in Land Management at Can Tho University and KMUTT Geospatial Engineering and InnOvation Center (KGEO), Vietnam & Thailand (2016-2018)</li>
-<li>B.Eng. in Land Managment at Can Tho University, Vietnam (2012-2016)</li>
-
-</li>
-
-<br>
-
 <h3>Research Interests </h3>
-<li>Environmental Geography </li>
-<li>Land Change Science  </li>
-<li>Environment Management  </li>
-<li>Urban Microclimate  </li>
-<li>Urban Environmental Management & Planning  </li>
-<li>Ecosystem Services  </li>
-<li>Environmental Sustainability  </li>
+* Environmental Geography 
+* Land Change Science 
+* Environment Management 
+* Urban Microclimate 
+* Urban Environmental Management & Planning 
+* Ecosystem Services 
+* Environmental Sustainability
 
-<br>
 <hr>
-<br>
-<i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i>
+
+<i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics to address different environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i>
 
 
