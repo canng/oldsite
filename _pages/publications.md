@@ -5,7 +5,7 @@ permalink: /publications
 #comments: true
 ---
 
-<div style="max-width: 1500px; margin: 0 auto;">
+<div style="max-width: 1200px; margin: 0 auto;">
 
 <i>  Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i>
 

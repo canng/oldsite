@@ -5,6 +5,8 @@ permalink: /contact
 #comments: true
 ---
 
+<div style="max-width: 1200px; margin: 0 auto;">
+
 <h2>Leave me a message </h2>
 
 <!-- modify this form HTML and place wherever you want your form 
@@ -33,3 +35,6 @@ https://formspree.io/forms/xyyrlbba/integration
 
   </div>
 </form>
+
+
+</div>
