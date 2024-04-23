@@ -5,6 +5,8 @@ permalink: /cv
 #comments: true
 ---
 
+<div style="max-width: 1500px; margin: 0 auto;">
+
 <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
 
 <br>
@@ -53,3 +55,4 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
 <i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i>
 
 
+</div>
