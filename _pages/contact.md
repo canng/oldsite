@@ -24,7 +24,7 @@ https://formspree.io/forms/xyyrlbba/integration
   </div>
   <div>
     <label for="message" style="font-size: 18px;">Your message:</label><br>
-    <textarea id="message" name="message" rows="10" cols="80"></textarea><br>
+    <textarea id="message" name="message" rows="6" cols="75"></textarea><br>
   </div>
   <!-- your other form fields go here -->
   <div>
