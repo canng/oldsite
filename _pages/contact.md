@@ -1,45 +1,25 @@
-<html>
-<head>
-  <title>Contact me</title>
-</head>
+---
+layout: page
+title: Curriculum Vitae
+permalink: /contact
+#comments: true
+---
 
-<body>
-<form method="post" action="https://forms.un-static.com/forms/YOUR_ENDPOINT_REFERENCE">
-  <div class="form-group row">
-    <label for="name" class="col-4 col-form-label">Name</label>
-    <div class="col-8">
-      <div class="input-group">
-        <div class="input-group-addon">
-          <i class="fa fa-user"></i>
-        </div>
-        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
-      </div>
-    </div>
-  </div>
-  <div class="form-group row">
-    <label for="email" class="col-4 col-form-label">E-mail address</label>
-    <div class="col-8">
-      <div class="input-group">
-        <div class="input-group-addon">
-          <i class="fa fa-envelope"></i>
-        </div>
-        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
-      </div>
-    </div>
-  </div>
-  <div class="form-group row">
-    <label for="message" class="col-4 col-form-label">Message</label>
-    <div class="col-8">
-      <textarea id="message" name="message" cols="40" rows="10" required="required" class="form-control"></textarea>
-    </div>
-  </div>
-  <div class="form-group row">
-    <div class="offset-4 col-8">
-      <button name="submit" type="submit" class="btn btn-primary">Send</button>
-    </div>
-  </div>
+## Leave me a message
+
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xyyrlbba"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
-<div align="center">
-</div>
-</body>
-</html>
