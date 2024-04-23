@@ -9,6 +9,7 @@ permalink: /publications
 
 <i>  Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i>
 
+<br>
 
 <div style="padding: 40px; border: 5px solid transparent; border-color: transparent; margin-bottom: 100px; border-radius: 10px; color: #333333;; background-color: #fcf8e3; border-color: #faebcc;">
 
