@@ -40,7 +40,6 @@
   </div>
 </form>
 <div align="center">
-  <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
 </div>
 </body>
 </html>
