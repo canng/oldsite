@@ -19,12 +19,11 @@ permalink: /publications
 
 </div>
 
-<hr>
-
 <h2>Peer reviewed Articles</h2>
 <ol reversed>
 <br>
 <i>  Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i>
+
 <br>
 
 <h3> 2024 </h3>
