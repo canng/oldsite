@@ -35,7 +35,8 @@ permalink: /review
 <br>
 <hr>
 
-#### Elsevier
+<h4> Elsevier </h4>
+
 * <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>
 * <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>
 * <a href="https://www.sciencedirect.com/journal/the-egyptian-journal-of-remote-sensing-and-space-science">The Egyptian Journal of Remote Sensing and Space Sciences</a>
@@ -46,34 +47,38 @@ permalink: /review
 * <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>
 * <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>
 
-#### Springer
-* <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>
-* <a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a>
+<h4> Springer  </h4>
 
-#### Taylor and Francis
-* <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>
-* <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>
+* <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a> 
+* <a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a> 
 
-#### MDPI
-* <a href="https://www.mdpi.com/journal/remotesensing">Remote Sensing</a>
-* <a href="https://www.mdpi.com/journal/sustainability">Sustainability</a>
-* <a href="https://www.mdpi.com/journal/atmosphere">Atmosphere</a>
-* <a href="https://www.mdpi.com/journal/agriculture">Agriculture</a>
-* <a href="https://www.mdpi.com/journal/sensors">Sensors</a>
+<h4> Taylor and Francis </h4>
+* <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a> 
+* <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a> 
 
-#### IOP
-* <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>
-* <a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a>
+<h4> MDPI </h4>
+
+* <a href="https://www.mdpi.com/journal/remotesensing">Remote Sensing</a> 
+* <a href="https://www.mdpi.com/journal/sustainability">Sustainability</a> 
+* <a href="https://www.mdpi.com/journal/atmosphere">Atmosphere</a> 
+* <a href="https://www.mdpi.com/journal/agriculture">Agriculture</a> 
+* <a href="https://www.mdpi.com/journal/sensors">Sensors</a> 
+
+<h4> IOP </h4>
+
+* <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a> 
+* <a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a> 
+
 * <a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a>
 
-### Nature
+<h4> Nature </h4>
+
 * <a href="https://www.nature.com/srep/">Scientific Reports</a>
 
+<h4> Others </h4>
 
-#### Others
 * <a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI)
 * The 42nd Asian Conference on Remote Sensing <a href="https://a-a-r-s.org/">(AARS)</a> 
-
 
 <br/>
 <hr>

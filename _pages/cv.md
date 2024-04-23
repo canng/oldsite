@@ -32,11 +32,10 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
 <br>
 
 <h3>Education</h3>
+
 <li>Ph.D. in Environmentl Technology at King Mongkut's University of Technology Thonburi, Thailand (2019-2022)</li>
 <li>MSc. in Land Management at Can Tho University and KMUTT Geospatial Engineering and InnOvation Center (KGEO), Vietnam & Thailand (2016-2018)</li>
 <li>B.Eng. in Land Managment at Can Tho University, Vietnam (2012-2016)</li>
-
-</li>
 
 <br>
 
