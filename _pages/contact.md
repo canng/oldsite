@@ -13,6 +13,11 @@ https://formspree.io/forms/xyyrlbba/integration
 <form action="https://formspree.io/f/xyyrlbba" method="POST">
 
   <div>
+    <label for="name" style="font-size: 18px;">Your name:</label><br>
+    <input type="name" id="name" name="name" style="width: 650px; height: 50px;" ><br>
+    <br>
+  </div>
+  <div>
     <label for="email" style="font-size: 18px;">Your email:</label><br>
     <input type="email" id="email" name="email" style="width: 650px; height: 50px;" ><br>
     <br>
