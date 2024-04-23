@@ -8,7 +8,7 @@ permalink: /review
 <div style="max-width: 1400px; margin: 0 auto;">
 
 <i>Over the past few years, starting from my doctoral program, I have gained several opportunities to contribute to the peer-reviewed process of over 20 Journals belonging to 05 different Publishers</i>
-
+<br>
 <i>My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research.</i>
 <br>
 
@@ -47,15 +47,18 @@ permalink: /review
 <li><a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a></li> 
 <li><a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a></li> 
 
+<br>
 <h4> Springer  </h4>
 
 <li><a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a></li> 
 <li><a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a></li> 
 
+<br>
 <h4> Taylor and Francis </h4>
 <li><a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a></li> 
 <li><a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a></li> 
 
+<br>
 <h4> MDPI </h4>
 
 <li><a href="https://www.mdpi.com/journal/remotesensing">Remote Sensing</a></li> 
@@ -64,6 +67,7 @@ permalink: /review
 <li><a href="https://www.mdpi.com/journal/agriculture">Agriculture</a></li> 
 <li><a href="https://www.mdpi.com/journal/sensors">Sensors</a></li> 
 
+<br>
 <h4> IOP </h4>
 
 <li><a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a></li> 
@@ -71,10 +75,12 @@ permalink: /review
 
 <li><a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a></li> 
 
+<br>
 <h4> Nature </h4>
 
 <li><a href="https://www.nature.com/srep/">Scientific Reports</a></li> 
 
+<br>
 <h4> Others </h4>
 
 <li><a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI)</li> 
