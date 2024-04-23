@@ -7,10 +7,6 @@ permalink: /publications
 
 <div style="max-width: 1400px; margin: 0 auto;">
 
-<i>  Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i>
-
-<br>
-
 <div style="padding: 40px; border: 5px solid transparent; border-color: transparent; margin-bottom: 100px; border-radius: 10px; color: #333333;; background-color: #fcf8e3; border-color: #faebcc;">
 
 <h2>Featured Articles</h2>
@@ -23,9 +19,13 @@ permalink: /publications
 
 </div>
 
+<hr>
 
 <h2>Peer reviewed Articles</h2>
 <ol reversed>
+<br>
+<i>  Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i>
+<br>
 
 <h3> 2024 </h3>
 <li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf"> (PDF)</a></li>
