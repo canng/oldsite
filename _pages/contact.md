@@ -14,17 +14,17 @@ https://formspree.io/forms/xyyrlbba/integration
 
   <div>
     <label for="name" style="font-size: 18px;">Your name:</label><br>
-    <input type="name" id="name" name="name" style="width: 650px; height: 25px;" ><br>
+    <input type="name" id="name" name="name" style="width: 650px; height: 20px;" ><br>
     <br>
   </div>
   <div>
     <label for="email" style="font-size: 18px;">Your email:</label><br>
-    <input type="email" id="email" name="email" style="width: 650px; height: 25px;" ><br>
+    <input type="email" id="email" name="email" style="width: 650px; height: 20px;" ><br>
     <br>
   </div>
   <div>
     <label for="message" style="font-size: 18px;">Your message:</label><br>
-    <textarea id="message" name="message" rows="15" cols="80"></textarea><br>
+    <textarea id="message" name="message" rows="10" cols="80"></textarea><br>
   </div>
   <!-- your other form fields go here -->
   <div>
