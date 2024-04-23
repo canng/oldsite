@@ -5,7 +5,7 @@ permalink: /contact
 #comments: true
 ---
 
-<div style="max-width: 1200px; margin: 0 auto;">
+<div style="max-width: 1400px; margin: 0 auto;">
 
 <h2>Leave me a message </h2>
 
