@@ -5,7 +5,7 @@ permalink: /publications
 #comments: true
 ---
 
-<div style="max-width: 1400px; margin: 0 auto;">
+<div style="max-width: 1300px; margin: 0 auto;">
 
 <div style="padding: 40px; border: 5px solid transparent; border-color: transparent; margin-bottom: 100px; border-radius: 10px; color: #333333;; background-color: #fcf8e3; border-color: #faebcc;">
 
