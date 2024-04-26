@@ -22,7 +22,8 @@ permalink: /publications
 <h2>Peer reviewed Articles</h2>
 <ol reversed>
 <br>
-<i>  Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i>
+
+> <i> Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i>
 
 <br>
 
@@ -119,7 +120,9 @@ permalink: /publications
 
 <ol reversed>
 
-<i>Updating ...</i>
+<i>Updating ... 
+    
+>For current interest, please visit my ResearchGate site</i>
 
 <br>
 </ol>
