@@ -5,7 +5,7 @@ permalink: /cv
 #comments: true
 ---
 
-<div style="max-width: 1400px; margin: 0 auto;">
+<div style="max-width: 1300px; margin: 0 auto;">
 
 <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
 
