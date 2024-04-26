@@ -87,7 +87,8 @@ permalink: /review
 
 <li><a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI)</li> 
 <li>The 42nd Asian Conference on Remote Sensing <a href="https://a-a-r-s.org/">(AARS)</a></li>  
-
+<li><a href="https://ctujs.ctu.edu.vn/index.php/ctujs/index">CTU Journal of Innovation and Sustainable Development</a> (ACI, DOAJ)</li>
+ 
 <br/>
 <hr>
 
