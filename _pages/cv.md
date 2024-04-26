@@ -7,7 +7,7 @@ permalink: /cv
 
 <div style="max-width: 1300px; margin: 0 auto;">
 
-<img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
+> <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
 
 <br>
 <h4><a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">Full Curriculum Vitae of Dr. Trong Can Nguyen</a></h4>
@@ -52,7 +52,8 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
 <br>
 <hr>
 <br>
-<i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i>
+
+> <i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i>
 
 
 </div>
