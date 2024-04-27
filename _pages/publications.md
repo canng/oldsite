@@ -120,9 +120,9 @@ permalink: /publications
 
 <ol reversed>
 
-<i>Updating ... 
+<i>Updating ... </i>
     
->For current interest, please visit my ResearchGate site</i>
+>For current interest, please visit my ResearchGate site
 
 <br>
 </ol>
