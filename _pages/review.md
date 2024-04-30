@@ -10,7 +10,7 @@ permalink: /review
 > <i>Over the past few years, starting from my doctoral program, I have gained several opportunities to contribute to the peer-reviewed process of over 20 Journals belonging to 05 different Publishers</i> 
 > 
 > <i>My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research.</i> 
-
+> 
 <br>
 <br>
 
