@@ -10,8 +10,6 @@ permalink: /cv
 > <img src="{{site.baseurl}}/assets/images/Profile_nguyen_01.jpg" alt="Nguyen" style="width: 450px"/>
 
 <br>
-<h4><a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">Full Curriculum Vitae of Dr. Trong Can Nguyen</a></h4>
-
 <a href="https://scholar.google.com/citations?user=xnzuZiAAAAAJ&hl=en&oi=ao"><img src="{{site.baseurl}}/assets/images/icon/Google_Scholar_logo.png" alt="" style="height: 45px"/></a>
 <a href="https://www.researchgate.net/profile/Can-Nguyen-3"><img src="{{site.baseurl}}/assets/images/icon/ResearchGate.png" alt="" style="height: 45px"/></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57189026531"><img src="{{site.baseurl}}/assets/images/icon/Scopus_logo.png" alt="" style="height: 40px"/></a>
@@ -55,14 +53,15 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
 
     > <i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i> 
 
-
 <br>
+<br>
+<hr>
 
 <embed
 	src="../assets/Can_Nguyen_CV_2024.docx.pdf"
 	type="application/pdf"
 	width="100%"
-	height="100%"
+	height="1000%"
 	title="Embedded PDF Viewer"
 />
 
