@@ -60,8 +60,8 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
 <embed
 	src="../assets/Can_Nguyen_CV_2024.docx.pdf"
 	type="application/pdf"
-	width="100%"
-	height="1000%"
+	width="700px"
+	height="3000px"
 	title="Embedded PDF Viewer"
 />
 
