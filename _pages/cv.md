@@ -29,40 +29,23 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
 
 <br>
 <br>
-
-<h3>Education</h3>
-
-<li>Ph.D. in Environmentl Technology at King Mongkut's University of Technology Thonburi, Thailand (2019-2022)</li>
-<li>MSc. in Land Management at Can Tho University and KMUTT Geospatial Engineering and InnOvation Center (KGEO), Vietnam & Thailand (2016-2018)</li>
-<li>B.Eng. in Land Managment at Can Tho University, Vietnam (2012-2016)</li>
-
-<br>
-
-<h3>Research Interests </h3>
-<li>Environmental Geography </li>
-<li>Land Change Science  </li>
-<li>Environment Management  </li>
-<li>Urban Microclimate  </li>
-<li>Urban Environmental Management & Planning  </li>
-<li>Ecosystem Services  </li>
-<li>Environmental Sustainability  </li>
-
-<br>
 <hr>
-<br>
 
-    > <i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i> 
-
-<br>
-<br>
-<hr>
+<h3>Curriculum Vitae </h3>
 
 <embed
-	src="../assets/Can_Nguyen_CV_2024.docx.pdf"
+	src="../assets/Can_Nguyen_CV_2024.pdf"
 	type="application/pdf"
-	width="700px"
-	height="3000px"
-	title="Embedded PDF Viewer"
+	width="100%"
+	height="1500px"
+	title="Full Curriculum Vitae Viewer"
 />
+
+<br>
+
+<hr>
+<br>
+
+ > <i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i> 
 
 </div>
