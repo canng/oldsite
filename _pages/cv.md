@@ -56,4 +56,14 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
     > <i>He defines himself as an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.</i> 
 
 
+<br>
+
+<embed
+	src="../assets/Can_Nguyen_CV_2024.docx.pdf"
+	type="application/pdf"
+	width="100%"
+	height="100%"
+	title="Embedded PDF Viewer"
+/>
+
 </div>
