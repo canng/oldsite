@@ -33,7 +33,7 @@ He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu
 
 <h3>Curriculum Vitae </h3>
 
-<a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"><h3>Full curriculum vitae can be found here</h3></a>
+<a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"><h4>Full curriculum vitae can be found here</h4></a>
 
 <embed
 	src="../assets/Can_Nguyen_CV_2024.pdf"
