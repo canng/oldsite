@@ -4,7 +4,7 @@ title: "Can T.N."
 description: "Researcher, Environmental Geography & Geoinformatics"
 logo: 'assets/images/Geonate_logo.png'
 favicon: 'assets/images/Geonate_icon.ico'
-baseurl: 'https://canng.github.io/canng'
+baseurl: 'https://canng.github.io'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -19,7 +19,7 @@ authors:
     display_name: Canng
     gravatar: 'assets/images/Profile.png'
     email: trongcan.ng@gmail.com
-    web: https://canng.github.io/canng
+    web: https://canng.github.io
     twitter: https://twitter.com/canntrg
     description: ""
 
