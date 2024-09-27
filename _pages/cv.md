@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 #comments: true
 ---
-<a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"><h3>Full Curriculum Vitae can be found here</h3></a>
+<a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">Full Curriculum Vitae can be found here</a>
 
 
 <div style="max-width: 1300px; margin: 0 auto;">
