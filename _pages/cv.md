@@ -4,6 +4,8 @@ title: Curriculum Vitae
 permalink: /cv
 #comments: true
 ---
+<a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"><h3>[Full Curriculum Vitae can be found here]</h3></a>
+
 
 <div style="max-width: 1300px; margin: 0 auto;">
 
@@ -28,21 +30,6 @@ He completed his doctoral degree in Environmental Technology at <a href="https:/
 He received B.Eng. and M.Sc. in Land Management from <a href="https://en.ctu.edu.vn/">Can Tho University (CTU)</a>, Vietnam, in 2016 and 2019, respectively. In 2016, he joined <a href="https://lrd.ctu.edu.vn/en/">Land Resources Department (LRD)</a>, College of Environment and Natural Resources, CTU as a Research and Teaching Assistant (RA/TA). In 2018, he was a short-term visiting researcher at <a href="http://kgeo.org/kgeo/">KMUTT Geospatial Engineering and Innovation Center (KGEO)</a>, Thailand.
 
 <br>
-<br>
-<hr>
-
-<a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"><h3>Curriculum Vitae</h3></a>
-
-<embed
-	src="../canng/assets/Can_Nguyen_CV_2024.pdf"
-	type="application/pdf"
-	width="100%"
-	height="1500px"
-	title="Full Curriculum Vitae Viewer"
-/>
-
-<br>
-
 <hr>
 <br>
 
