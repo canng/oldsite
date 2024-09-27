@@ -50,10 +50,10 @@ permalink: /review
 <li><a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a></li> 
 
 <br>
-<h4> Springer  </h4>
-
+<h4> Springer & Springer Nature  </h4>
 <li><a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a></li> 
 <li><a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a></li> 
+<li><a href="https://www.nature.com/srep/">Scientific Reports</a></li> 
 
 <br>
 <h4> Taylor and Francis </h4>
@@ -74,13 +74,9 @@ permalink: /review
 
 <li><a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a></li> 
 <li><a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a></li> 
-
 <li><a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a></li> 
 
-<br>
-<h4> Nature </h4>
 
-<li><a href="https://www.nature.com/srep/">Scientific Reports</a></li> 
 
 <br>
 <h4> Others </h4>
