@@ -29,13 +29,16 @@ permalink: /publications
 <br>
 
 <h3> 2024 </h3>
+<li><b>Nguyen, C. T.*</b>, Loc, T. T., & Tien, P. D., 2024. Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction. Environmental Monitoring and Assessment. 196 (SI: Agricultural Water Management for a Sustainable Future: Technologies and Strategies), 1009 <a href="https://doi.org/10.1007/s10661-024-13151-7">10.1007/s10661-024-13151-7</a></li>
+<br>
 <li><b>Nguyen, C. T.*</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf"> (PDF)</a></li>
 <br>
-<li> Diem, P. K., <b>Nguyen, C. T.*</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2024. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 33(January 2024), 101081 <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101081_review_uhi.pdf"> (PDF)</a></li>
 
 <br>
 <h3> 2023 </h3>
 <li><b>Nguyen, C. T.*</b>, & Chidthaisong A., 2023. Ecosystem Services Provided by Urban Green Spaces in Bangkok Metropolis: Public Awareness and Planning Implications. Urban Ecosystems. <a href="https://doi.org/10.1007/s11252-023-01482-1">10.1007/s11252-023-01482-1</a><a href="https://canng.github.io/assets/Article_archive/2023_UE_ESS_UGS.pdf"> (PDF)</a></li> 
+<br>
+<li> Diem, P. K., <b>Nguyen, C. T.*</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2024. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 33(January 2024), 101081 <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a><a href="https://canng.github.io/assets/Article_archive/2023_RSASE_101081_review_uhi.pdf"> (PDF)</a></li>
 <br>
 <li>Diem, P.K., Diem, N.K., <b>Nguyen, C.T.</b>, Minh  V.Q., 2023. Impacts of extreme drought on rice planting calendar in Vietnamese Mekong Delta. Paddy and Water Environment. <a href="https://doi.org/10.1007/s10333-023-00958-2">10.1007/s10333-023-00958-2</a><a href="https://canng.github.io/assets/Article_archive/2023_PAWE_drought_rice_calendar.pdf"> (PDF)</a></li>
 <br>
